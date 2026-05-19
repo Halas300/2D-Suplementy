@@ -17,6 +17,14 @@ public class MainDashboard {
         frame.setLayout(new BorderLayout(10, 10));
         frame.setLocationRelativeTo(null);
 
+        JPanel topPanel = new JPanel();
+        topPanel.setBorder(BorderFactory.createEmptyBorder(20, 20, 10, 20));
+        JButton aiButton = new JButton("Zeptat se AI poradce");
+        aiButton.setPreferredSize(new Dimension(300, 50));
+        topPanel.add(aiButton);
+        aiButton.addActionListener(e -> new AIWindow().showWindow());
+        frame.add(topPanel, BorderLayout.NORTH);
+
         JPanel centerPanel = new JPanel();
         centerPanel.setLayout(new GridLayout(0, 3, 10, 10));
         centerPanel.setBorder(BorderFactory.createEmptyBorder(10, 20, 20, 20));
