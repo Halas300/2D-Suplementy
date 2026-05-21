@@ -11,10 +11,11 @@ public abstract class AbstractSupplement implements CatalogItem {
     protected List<String> benefits;
     protected String mythAndFact;
     protected String specificWarning;
+    protected String imagePath;
 
     public AbstractSupplement(String name, String category, String scientificScore,
                               String summary, String dosage, String timing,
-                              String howItWorks, List<String> benefits, String mythAndFact, String specificWarning) {
+                              String howItWorks, List<String> benefits, String mythAndFact, String specificWarning,String imagePath) {
         this.name = name;
         this.category = category;
         this.scientificScore = scientificScore;
@@ -25,6 +26,7 @@ public abstract class AbstractSupplement implements CatalogItem {
         this.benefits = benefits;
         this.mythAndFact = mythAndFact;
         this.specificWarning = specificWarning;
+        this.imagePath = imagePath;
     }
 
 
@@ -56,4 +58,7 @@ public abstract class AbstractSupplement implements CatalogItem {
         return mythAndFact;
     }
     public abstract String getSpecificWarning();
+    public String getImagePath() {
+        return imagePath;
+    }
 }

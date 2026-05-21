@@ -44,6 +44,7 @@ public class SupplementDatabase {
                 String howItWorks = obj.get("howItWorks").getAsString();
                 String mythAndFact = obj.get("mythAndFact").getAsString();
                 String specificWarning = obj.get("specificWarning").getAsString();
+                String imagePath = obj.get("imagePath").getAsString();
 
                 List<String> benefits = new ArrayList<>();
                 JsonArray benArray = obj.getAsJsonArray("benefits");
@@ -53,7 +54,7 @@ public class SupplementDatabase {
 
                 MuscleSupplement supp = new MuscleSupplement(
                         name, category, scientificScore, summary, dosage,
-                        timing, howItWorks, benefits, mythAndFact, specificWarning
+                        timing, howItWorks, benefits, mythAndFact, specificWarning, imagePath
                 );
 
                 database.putIfAbsent(category, new ArrayList<>());

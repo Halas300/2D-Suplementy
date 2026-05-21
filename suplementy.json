@@ -13,6 +13,24 @@
       "Podpora mozkových funkcí a kognitivního zdraví."
     ],
     "mythAndFact": "Mýtus: Kreatin poškozuje ledviny. \nFakt: U zdravých jedinců nebyl prokázán žádný negativní vliv.",
-    "specificWarning": "Zadržování vody: Dochází k lehkému zadržování vody přímo uvnitř svalů. Nejde o zavodnění pod kůží, ale o hydrataci buněk, což je naopak žádoucí efekt pro růst a výkon.\n\nZažívací komfort: U některých citlivějších jedinců může kreatin způsobit lehké nadýmání, obzvlášť pokud ho užijí nalačno.\n\nOnemocnění ledvin: Pro zdravého člověka je kreatin naprosto bezpečný. Pokud ale máte již existující problémy s ledvinami, je nutné případné užívání předem konzultovat s lékařem."
+    "specificWarning": "Zadržování vody: Dochází k lehkému zadržování vody přímo uvnitř svalů. Nejde o zavodnění pod kůží, ale o hydrataci buněk, což je naopak žádoucí efekt pro růst a výkon.\n\nZažívací komfort: U některých citlivějších jedinců může kreatin způsobit lehké nadýmání, obzvlášť pokud ho užijí nalačno.\n\nOnemocnění ledvin: Pro zdravého člověka je kreatin naprosto bezpečný. Pokud ale máte již existující problémy s ledvinami, je nutné případné užívání předem konzultovat s lékařem.",
+    "imagePath": "kreatine.jpg"
+  },
+  {
+    "name": "Kre-Alkalyn",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 2: Střední důkazy.",
+    "summary": "Upravená forma kreatinu s vysokým pH (pH-pufrovaný kreatin), která minimalizuje přeměnu na odpadní kreatinin. Je navržena tak, aby poskytovala výhody klasického kreatinu bez nutnosti takzvané nasycovací fáze a s maximálním ohledem na zažívací trakt.",
+    "dosage": "1,5-3 g denně.\n\nNejčastěji se prodává a užívá ve formě kapslí. Kapsle stačí zapít dostatečným množstvím vody. Skvěle funguje v kombinaci s předtréninkovými stimulanty (jako je kofein nebo beta-alanin).",
+    "timing": "Před tréninkem: Ideální je užít dávku zhruba 30-60 minut před fyzickou zátěží. V netréninkové dny se užívá ráno po probuzení.",
+    "howItWorks": "Díky svému alkalickému (zásaditému) pH se tento kreatin v kyselém prostředí žaludku nerozkládá tak rychle jako běžný monohydrát. Do svalů se tak teoreticky dostane větší množství čisté a funkční účinné látky i při mnohem menší dávce. Tím se snižuje celková zátěž na trávení.",
+    "benefits": [
+      "Zvýšení síly bez nutnosti „nasycovací fáze“.",
+      "Nižší riziko trávicích potíží a nadýmání.",
+      "Nezpůsobuje viditelné podkožní zadržování vody."
+    ],
+    "mythAndFact": "Mýtus: Kre-Alkalyn je 10x účinnější než běžný monohydrát.\nFakt: Je to velmi účinná a pro žaludek šetrná forma, ale rozdíl v absolutním nárůstu síly oproti mnohem levnějšímu monohydrátu není pro většinu běžných cvičenců propastný.",
+    "specificWarning": "Trávení: Velmi výjimečně může způsobit lehkou žaludeční citlivost.\n\nKontraindikace: Jsou naprosto stejné jako u běžného kreatinu. Pokud máte potíže s ledvinami, poraďte se s lékařem.\n\nMaximální bezpečná dávka: Užívání více než 5 g denně postrádá smysl, protože u této pufrované formy tělo vyšší dávku už nedokáže efektivně využít.",
+    "imagePath": "krealkalyn.jpg"
   }
 ]
