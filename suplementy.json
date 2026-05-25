@@ -32,5 +32,22 @@
     "mythAndFact": "Mýtus: Kre-Alkalyn je 10x účinnější než běžný monohydrát.\nFakt: Je to velmi účinná a pro žaludek šetrná forma, ale rozdíl v absolutním nárůstu síly oproti mnohem levnějšímu monohydrátu není pro většinu běžných cvičenců propastný.",
     "specificWarning": "Trávení: Velmi výjimečně může způsobit lehkou žaludeční citlivost.\n\nKontraindikace: Jsou naprosto stejné jako u běžného kreatinu. Pokud máte potíže s ledvinami, poraďte se s lékařem.\n\nMaximální bezpečná dávka: Užívání více než 5 g denně postrádá smysl, protože u této pufrované formy tělo vyšší dávku už nedokáže efektivně využít.",
     "imagePath": "krealkalyn.jpg"
+  },
+  {
+    "name": "Kreatin Malát",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 2-3: Méně studií.",
+    "summary": "Kreatin malát je doplněk stravy zaměřený na sílu a budování svalů, který vzniká spojením klasického kreatinu a kyseliny jablečné. Má skvělou rozpustnost ve vodě, vyznačuje se typicky kyselejší chutí a je velmi oblíbený u atletů, pro které je klíčová dynamika a vytrvalost. Ačkoliv se nejedná o přímý spalovač tuků, díky schopnosti zvládnout tvrdší trénink dokáže nepřímo podpořit rýsování postavy.",
+    "dosage": "Standardně se doporučuje užívat 3–5 gramů denně rozmíchaných v čisté vodě. Pro ještě lepší výsledky se výborně doplňuje například s citrulin malátem pro maximální svalové prokrvení nebo s BCAA. Maximální bezpečná denní dávka je 10 gramů, přičemž větší množství je vždy šetrnější k trávení rozdělit do několika menších porcí.",
+    "timing": "Ideální doba pro užití kreatin malátu je před tréninkem. Tímto načasováním zajistíte tělu maximální podporu energetického cyklu přesně v momentě, kdy vás čeká nejtěžší fyzická zátěž.",
+    "howItWorks": "Kyselina jablečná (malát) je klíčovou součástí Krebsova cyklu – hlavního procesu, kterým naše tělo vyrábí buněčnou energii. Díky této vazbě suplement nejen prokazatelně zvyšuje výbušnou sílu, ale také výrazně oddaluje únavu při delším výkonu a podporuje regeneraci (např. po HIIT tréninku). Kvůli své přirozené kyselosti však může dráždit citlivější žaludek, a proto by si měli dávat pozor lidé se žaludečními vředy nebo sklony k překyselení.",
+    "benefits": [
+      "Zlepšení výbušné síly i vytrvalosti.",
+      "Skvělá rozpustnost ve vodě a vstřebatelnost.",
+      "Podpora regenerace po intenzivním kardiu či HIITu."
+    ],
+    "mythAndFact": "Mýtus: Kreatin malát funguje jako spalovač tuků.\nFakt: Přímo tuky nepálí. Nicméně díky lepší stimulaci metabolismu a schopnosti trénovat déle i tvrději může nepřímo podpořit rýsování postavy.",
+    "specificWarning": "Trávení: Kvůli své přirozené kyselosti může u citlivějších osob dráždit žaludek, obzvláště pokud se užívá nalačno.\n\nKontraindikace: Lidé se zvýšenou kyselostí žaludku nebo se žaludečními vředy by měli být velmi opatrní.\n\nMaximální bezpečná dávka: 10 g denně (ideálně rozděleno do více menších dávek).",
+    "imagePath": "kreatinmalat.jpg"
   }
 ]
