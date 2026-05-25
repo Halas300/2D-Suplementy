@@ -49,5 +49,56 @@
     "mythAndFact": "Mýtus: Kreatin malát funguje jako spalovač tuků.\nFakt: Přímo tuky nepálí. Nicméně díky lepší stimulaci metabolismu a schopnosti trénovat déle i tvrději může nepřímo podpořit rýsování postavy.",
     "specificWarning": "Trávení: Kvůli své přirozené kyselosti může u citlivějších osob dráždit žaludek, obzvláště pokud se užívá nalačno.\n\nKontraindikace: Lidé se zvýšenou kyselostí žaludku nebo se žaludečními vředy by měli být velmi opatrní.\n\nMaximální bezpečná dávka: 10 g denně (ideálně rozděleno do více menších dávek).",
     "imagePath": "kreatinmalat.jpg"
+  },
+  {
+    "name": "Syrovátkový (Whey) Protein",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 1: Silné klinické důkazy.",
+    "summary": "Syrovátkový protein je nejpopulárnější a nejrychleji vstřebatelný zdroj bílkovin. Získává se z mléka při výrobě sýra a obsahuje kompletní spektrum všech esenciálních aminokyselin, které tělo nezbytně potřebuje pro opravu a růst svalových vláken poškozených tréninkem.",
+    "dosage": "Typicky 25–30 g (jedna odměrka) na porci.\n\nRozmíchejte ve vodě (pro nejrychlejší vstřebání) nebo v mléce (pro lepší chuť a delší zasycení, ale počítejte s mírně pomalejším trávením).",
+    "timing": "Ihned po tréninku: Zlaté okno. Je to ideální čas pro rychlé nastartování svalové proteosyntézy (opravy svalů).\n\nKdykoliv během dne: Skvělé pro doplnění celkového denního příjmu bílkovin, například jako rychlá svačina nebo přidáním do ovesné kaše k snídani.",
+    "howItWorks": "Během silového tréninku dochází k mikrotrhlinám ve svalových vláknech. Syrovátkový protein po vypití dodá tělu rychle dostupné aminokyseliny (zejména klíčový leucin), které začnou tyto trhliny okamžitě opravovat. Sval tak díky tomuto stavebnímu materiálu sroste silnější a větší. Díky vynikající stravitelnosti začíná syrovátka působit už do několika desítek minut po konzumaci.",
+    "benefits": [
+      "Rychlá a efektivní oprava svalových vláken po zátěži.",
+      "Podpora hubnutí (bílkoviny ze všech makroživin nejvíce zasytí a chrání svaly v dietě).",
+      "Pohodlný, levný a velmi rychlý způsob, jak splnit denní limit příjmu bílkovin."
+    ],
+    "mythAndFact": "Mýtus: Z proteinového prášku se tvoří umělé, „nafouknuté“ svaly.\nFakt: Proteinový prášek je jen obyčejné jídlo (filtrovaná a vysušená syrovátka z kravského mléka). V těle funguje úplně stejně jako bílkoviny z masa, tvarohu nebo vajec.",
+    "specificWarning": "Alergie a intolerance laktózy: Běžný syrovátkový koncentrát (WPC) obsahuje zbytkovou laktózu (mléčný cukr). U lidí s intolerancí to může vyvolat trávicí potíže a nadýmání.\n\nŘešení: Pro tyto jedince je vhodný syrovátkový izolát (WPI), který je čistší a laktózy je téměř úplně zbaven.",
+    "imagePath": "wheyprotein.jpg"
+  },
+  {
+    "name": "Rostlinný protein (Vegan)",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 1-2: Silné důkazy (při správném mixu zdrojů).",
+    "summary": "Rostlinné proteiny představují skvělou alternativu pro vegany, lidi s intolerancí laktózy nebo ty, kteří chtějí omezit konzumaci živočišných produktů. Nejčastěji se vyrábějí z hrachu, rýže, sóji, konopí nebo dýňových semínek. Na rozdíl od syrovátkového proteinu může některým jednodruhovým rostlinným zdrojům chybět určité množství konkrétních esenciálních aminokyselin. Proto výrobci často kombinují více zdrojů (například hrách a hnědou rýži) do tzv. blendů, aby vytvořili komplexní a plnohodnotný aminokyselinový profil, který se svou kvalitou naprosto vyrovná živočišným proteinům.",
+    "dosage": "Typicky 25–35 g (jedna odměrka) na porci. Vzhledem k mírně nižší vstřebatelnosti u některých rostlinných zdrojů se často doporučuje o trochu větší dávka než u klasické syrovátky.\n\nPrášek lze rozmíchat ve vodě, nebo pro lepší chuť a krémovější konzistenci v rostlinném mléce (např. ovesném či mandlovém). Výborně se hodí také na zdravé pečení nebo pro zahuštění ranních ovesných kaší a smoothies.",
+    "timing": "Ihned po tréninku: Slouží k rychlé dodávce stavebních látek pro unavené svaly a k nastartování regeneračních procesů po těžké fyzické zátěži.\n\nKdykoliv během dne: Perfektní nástroj, jak snadno a chutně navýšit celkový denní příjem bílkovin, což bývá pro sportující vegany a vegetariány často hlavní výzva jídelníčku.",
+    "howItWorks": "Podobně jako syrovátka, i veganský protein poskytuje tělu stavební bloky (aminokyseliny) potřebné pro opravu svalových vláken poškozených tréninkem. Hrachový protein je například velmi bohatý na aminokyselinu arginin, která přirozeně podporuje prokrvení svalů a transport živin. Rýžový protein zase dodává dostatek methioninu. Jakmile tělo tyto látky stráví a pošle do krevního oběhu, začne proces svalové proteosyntézy. Rostlinné proteiny se navíc obecně tráví o něco pomaleji, což dokáže tělo zásobovat živinami po delší dobu a udrží vás déle syté.",
+    "benefits": [
+      "Ideální volba pro lidi s alergií na mléčnou bílkovinu nebo intolerancí laktózy.",
+      "Často je velmi lehce stravitelný a nezatěžuje žaludek, což ocení lidé s citlivým trávením.",
+      "Zajišťuje dlouhodobější pocit zasycení díky přirozeně vyššímu obsahu rostlinné vlákniny."
+    ],
+    "mythAndFact": "Mýtus: Na rostlinném proteinu se nedají vybudovat velké svaly, protože je takzvaně „nekompletní“.\nFakt: Pokud konzumujete vícezdrojový (blendovaný) rostlinný protein nebo máte během celého dne pestrou a vyváženou stravu, tělo získá naprosto všechny potřebné aminokyseliny k budování čisté svalové hmoty bez jakýchkoliv kompromisů.",
+    "specificWarning": "Textura a chuť: Prášek z rostlinných zdrojů může mít o něco „pískovější“ a zemitější texturu než klasická syrovátka. Také bývá přirozeně méně sladký, což může být pro nováčky zpočátku nezvyk. Vždy je dobré vyzkoušet více značek a najít tu, která vám chuťově sedne nejlépe.\n\nSójové izoláty: Pokud zvolíte čistě sójový protein, lidé se specifickou alergií na sóju by se mu samozřejmě měli vyhnout. Pro většinu populace je ale sója naprosto bezpečná a představuje jeden z mála přirozeně kompletních rostlinných zdrojů bílkovin.",
+    "imagePath": "rostlinyprotein.jpg"
+  },
+  {
+    "name": "Hovězí hydrolyzovaný protein",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 1-2: Silné až střední důkazy.",
+    "summary": "Hovězí protein představuje špičkovou živočišnou alternativu k syrovátkovým proteinům. Vyrábí se z kvalitního hovězího masa pomocí procesu hydrolýzy (předtrávení), díky kterému se odstraní téměř veškerý tuk a cholesterol. Je přirozeně stoprocentně bez laktózy a mléčné bílkoviny, což z něj dělá ideální volbu pro silové i vytrvalostní sportovce s citlivým zažíváním, kteří nemohou nebo nechtějí konzumovat mléčné produkty, ale přesto vyžadují maximálně kvalitní stavební materiál pro své svaly.",
+    "dosage": "Typicky 25–30 g (jedna odměrka) na porci.\n\nVzhledem k tomu, že se jedná o hydrolyzovaný izolát, má vynikající rozpustnost. Doporučuje se míchat výhradně v čisté studené vodě. Rozmíchání v mléce se vyloženě nedoporučuje, protože by se tím zbytečně znehodnotil hlavní benefit celé aplikace – tedy nulový obsah mléčných složek a laktózy.",
+    "timing": "Ihned po tréninku: Díky pokročilé hydrolýze jsou aminokyseliny rozštěpené na krátké řetězce (peptidy), které se v žaludku nezdrží a putují bleskově přímo do vyčerpaných svalových vláken.\n\nKdykoliv během dne: Pro rychlé a čisté doplnění bílkovin mezi hlavními jídly bez zatížení trávicího traktu.",
+    "howItWorks": "Hovězí hydrolyzát funguje na principu extrémně rychlé dodávky aminokyselin. Tělo je nemusí složitě a zdlouhavě štěpit, jako je tomu u běžného masa, ale rovnou je vstřebává. Tento protein má navíc specifické aminokyselinové složení – je přirozeně velmi bohatý na prolin, glycin a hydroxyprolin. To jsou aminokyseliny, které tvoří základ kolagenu. V těle tak tento suplement nepodporuje pouze růst svalové hmoty, ale výrazně pomáhá regenerovat a zpevňovat také šlachy, vazy a kloubní pouzdra, které jsou při tvrdých trénincích a dynamických sportech vystaveny obrovskému tlaku a dopadům.",
+    "benefits": [
+      "100% bez laktózy a mléčné bílkoviny – nezpůsobuje žádný zažívací diskomfort nebo nadýmání.",
+      "Extrémně rychlá stravitelnost a okamžitý transport živin do krevního oběhu.",
+      "Přirozený obsah kolagenních aminokyselin chránících pohybový aparát, šlachy a klouby."
+    ],
+    "mythAndFact": "Mýtus: Hovězí protein chutná jako rozmixovaný hovězí steak nebo vývar.\nFakt: Při technologické výrobě se z masa izoluje pouze čistá bílkovina a masová příchuť se kompletně odstraní. Výsledný prášek se standardně ochucuje (nejčastěji čokoládou nebo karamelem) a chutná jako klasický sladký proteinový koktejl.",
+    "specificWarning": "Konzistence a pěnivost: Hydrolyzovaný hovězí protein má kvůli specifické struktuře peptidů tendenci po protřepání v šejkru o něco více pěnit. Může mít také velmi lehký, přirozeně nahořklý podtón na konci doušku, což je u čistých hydrolyzátů běžná vlastnost.\n\nKvalita zdroje: Vždy je dobré sledovat, z jaké suroviny je protein vyroben. Doporučuje se hledat certifikované suroviny (např. HydroBEEF), které garantují, že protein pochází z čisté hovězí svaloviny a nikoliv z levných odpadních kůží a chrupavek.",
+    "imagePath": "hoveziprotein.jpg"
   }
 ]
