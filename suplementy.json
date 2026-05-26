@@ -202,5 +202,22 @@
     "mythAndFact": "Mýtus: Rychlé sacharidy jsou jen drahý cukr, po kterém se hned tloustne do tukových zásob.\nFakt: Pokud jsou rychlé sacharidy konzumovány striktně během intenzivního fyzického výkonu nebo bezprostředně po něm, tělo je do tuků neuloží. Využije je stoprocentně jako prioritní palivo pro svalovou práci a okamžitou obnovu vyčerpaných zásob.",
     "specificWarning": "Ředění vodou: Rychlé sacharidy nikdy nekonzumujte ve formě příliš husté kaše bez dostatku tekutin. Pokud roztok namícháte příliš koncentrovaný, natáhne si vodu z těla zpět do žaludku, což by vedlo k žaludečním křečím a mírné dehydrataci.",
     "imagePath": "sacharidy.jpg"
+  },
+  {
+    "name": "Iontový nápoj",
+    "category": "Energie a Předtréninkovky",
+    "scientificScore": "Stupeň 1: Silné vědecké i klinické důkazy.",
+    "summary": "Specializovaný sportovní nápoj navržený pro optimální hydrataci organismu během náročných a dlouhotrvajících sportovních výkonů, kde dochází k masivnímu pocení. Spojuje v sobě přesně vyvážený poměr rychlých sacharidů a nejdůležitějších minerálních látek. Pomáhá udržovat stálost vnitřního prostředí, dodává energii a zajišťuje, že se voda do buněk vstřebá mnohem rychleji, než kdybyste pili pouhou čistou vodu z kohoutku.",
+    "dosage": "Obvykle 30 g prášku rozpuštěného v 500 ml vody. Podle potřeby a intenzity pocení se dělí na nápoje hypotonické (lehčí, pro běžný trénink a vysoké teploty) a isotonické (koncentrovanější, pro maximálně intenzivní výkony).",
+    "timing": "Popíjejte průběžně po malých doušcích (každých 15–20 minut zhruba 150–200 ml) po celou dobu trvání fyzické aktivity. Nápoj by se neměl pít naráz ve velkém množství.",
+    "howItWorks": "Když se potíte, neztrácíte jen vodu, ale odcházejí i klíčové soli (ionty). Iontový nápoj má specifickou hustotu částic (osmolalitu), která odpovídá nebo je lehce nižší než u lidské krve. Díky přítomnosti malého množství sodíku a sacharidů se v tenkém střevě aktivují speciální přenašeče, které vodu doslova vtáhnou do krevního oběhu a buněk rekordní rychlostí. Svaly tak zůstávají hydratované a schopné bleskových kontrakcí.",
+    "benefits": [
+      "Prevence nebezpečné dehydratace a udržení optimálního objemu krve pro stabilní výkon srdce.",
+      "Průběžné doplňování minerálů, což je nejúčinnější přímá obrana proti svalovým křečím.",
+      "Udržení vysoké intenzity, výbušnosti a soustředění i v pozdních fázích těžkých závodů a tréninků."
+    ],
+    "mythAndFact": "Mýtus: Iontový nápoj je skvělý na celodenní pití ve škole nebo v kanceláři k doplnění minerálů.\nFakt: Pro běžné sezení je naprosto nevhodný. Obsahuje rychlé cukry, které při nulové aktivitě zbytečně zvedají hladinu inzulínu a ukládají se do tuků. Patří výhradně do rukou aktivně sportujícího člověka při reálné zátěži.",
+    "specificWarning": "Přesné ředení: Vždy striktně dodržujte odměrky podle návodu. Pokud uděláte nápoj příliš silný a sladký (hypertonický), žaludek ho nebude schopen strávit, začne v něm ležet, způsobí nevolnost a paradoxně vás ještě více dehydratuje.",
+    "imagePath": "iontak.jpg"
   }
   ]
