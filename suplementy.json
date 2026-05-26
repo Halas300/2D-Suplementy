@@ -219,5 +219,22 @@
     "mythAndFact": "Mýtus: Iontový nápoj je skvělý na celodenní pití ve škole nebo v kanceláři k doplnění minerálů.\nFakt: Pro běžné sezení je naprosto nevhodný. Obsahuje rychlé cukry, které při nulové aktivitě zbytečně zvedají hladinu inzulínu a ukládají se do tuků. Patří výhradně do rukou aktivně sportujícího člověka při reálné zátěži.",
     "specificWarning": "Přesné ředení: Vždy striktně dodržujte odměrky podle návodu. Pokud uděláte nápoj příliš silný a sladký (hypertonický), žaludek ho nebude schopen strávit, začne v něm ležet, způsobí nevolnost a paradoxně vás ještě více dehydratuje.",
     "imagePath": "iontak.jpg"
+  },
+  {
+    "name": "Elektrolyty (Minerální komplex)",
+    "category": "Energie a Předtréninkovky",
+    "scientificScore": "Stupeň 1: Silné a nezpochybnitelné klinické důkazy.",
+    "summary": "Vysoce koncentrovaný komplex klíčových minerálních látek (Sodík, Draslík, Hořčík, Vápník a Chlorid) ve formě kapslí, šumivých tablet nebo tekutého koncentrátu, zcela bez přidaných cukrů, sacharidů a kalorií. Je navržen pro precizní kontrolu nad hydratací organismu a pro obnovu minerální rovnováhy u sportovců, kteří procházejí extrémně náročnými tréninkovými bloky v horkém prostředí nebo potřebují bleskově rehydratovat tělo bez příjmu jakékoliv energie.",
+    "dosage": "Závisí na formě – nejčastěji 1 kapsle nebo 1 šumivá tableta rozpuštěná ve vodě před nebo během výkonu. V období extrémních letních veder nebo vícedenních závodů lze dávkování mírně navýšit.",
+    "timing": "Před tréninkem: Pro preventivní nasycení buněk minerály. Během výkonu: Popíjení v čisté vodě při dlouhotrvajícím pocení. Ráno po náročném dni: Pro rychlé srovnání hydratace organismu.",
+    "howItWorks": "Elektrolyty jsou minerály, které v tělesných tekutinách nesou elektrický náboj. Jsou naprosto nezbytné pro správný přenos nervových vzruchů z mozku přímo do svalových vláken. Sodík s chloridem udržují vodu v krevním řečišti, draslík ji drží uvnitř buněk a hořčík s vápníkem fungují jako mechanický tandem, který řídí stahy a následné uvolnění svalu. Bez dostatečného množství elektrolytů se nervový signál ke svalu začne zpožďovat a sval přejde do nekontrolovatelné křeče.",
+    "benefits": [
+      "Okamžitá obnova optimální rovnováhy tekutin v celém těle a stoprocentní prevence svalových křečí.",
+      "Podpora nervové soustavy pro bleskové reakce, koordinaci a zachování maximální výbušnosti.",
+      "Čistá hydratace bez nutnosti přijímat jakékoliv nechtěné kalorie, sladidla nebo sacharidy."
+    ],
+    "mythAndFact": "Mýtus: Když se hodně zpotíte, nejlepší a nejrychlejší hydratací je vypít litry čisté pramenité vody.\nFakt: Pití obrovského množství čisté vody bez elektrolytů při velkém pocení je nebezpečné. Voda rozředí zbývající minerály v krvi (stav zvaný hyponatrémie), což vede k okamžitému nástupu těžkých křečí, motání hlavy a rapidnímu poklesu fyzického výkonu.",
+    "specificWarning": "Sodík a tlak: Vzhledem k tomu, že elektrolyty obsahují větší množství sodíku (který je klíčový pro zadržení vody v krvi sportovce), lidé s vrozeným vysokým krevním tlakem by měli celkový denní příjem konzultovat se svým lékařem.",
+    "imagePath": "elektrolyty.jpg"
   }
   ]
