@@ -117,5 +117,22 @@
     "mythAndFact": "Mýtus: Popíjení EAA plně nahradí syrovátkový nebo hovězí protein.\nFakt: Nenahradí. EAA jsou sice skvělé k ochraně svalů přímo při sportu, ale pro celkové budování hmoty a pokrytí vysokého denního příjmu bílkovin jsou komplexní proteiny nebo pevná strava stále nezbytným základem.",
     "specificWarning": "Rychlost vstřebávání: Protože se EAA vstřebávají extrémně rychle, u citlivějších jedinců může vypití celé velké dávky naráz nalačno způsobit mírný pohyb v žaludku. Doporučuje se proto nápoj popíjet postupně po doušcích po celou dobu tréninku.\n\nKvalita složení: Vždy zkontrolujte, zda produkt obsahuje všech 9 esenciálních aminokyselin, nikoliv jen některé vybrané.",
     "imagePath": "eaa.jpg"
+  },
+  {
+    "name": "BCAA (Větvené aminokyseliny)",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 2-3: Střední až slabší důkazy (pro samotný růst svalů).",
+    "summary": "BCAA (Branched-Chain Amino Acids) jsou tři specifické aminokyseliny s rozvětveným řetězcem: Leucin, Isoleucin a Valin. Jsou sice součástí výše zmíněných EAA, ale často se prodávají samostatně. Ve sportu mají velmi specifický úkol – neslouží primárně jako přímá stavební látka pro svalový růst, ale spíše jako rychlý zdroj energie při vysoce intenzivním vytrvalostním nebo dynamickém výkonu, kdy pomáhají oddalovat únavu a chránit svalová vlákna před poškozením.",
+    "dosage": "Běžně 5–10 g na jednu porci.\n\nUžívají se ve formě prášku rozpuštěného ve vodě, případně v tabletách. Pro maximální efekt se doporučuje sledovat poměr aminokyselin – nejčastěji a nejlépe funguje osvědčený poměr 2:1:1 (kde dominuje klíčový Leucin).",
+    "timing": "Před tréninkem nebo v jeho první polovině: Pomáhá svalům šetřit jejich vlastní zásoby glykogenu a dodává jim energii na náročné pasáže a sprinty.\n\nPo tréninku: Může pomoci zmírnit následnou svalovou bolest (svalovou horečku) v následujících dnech.",
+    "howItWorks": "Hlavní hvězdou BCAA je aminokyselina Leucin. Ten v těle funguje jako biologický „vypínač“ procesu zvaného mTOR, který dává buňkám signál, že mají začít regenerovat a budovat svaly. Při dlouhotrvajícím nebo extrémně výbušném tréninku navíc tělo začne využívat BCAA přímo z krevního oběhu jako palivo. Tím, že mu je dodáte externě, ušetříte BCAA, které jsou vázané přímo ve vašich svalech, a zabráníte tak jejich poškozování.",
+    "benefits": [
+      "Výrazné oddálení nastupující fyzické i psychické únavy během dlouhých výkonů.",
+      "Efektivní snížení svalové bolestivosti (DOMS) v dnech po těžkém tréninku.",
+      "Rychlý zdroj energie, který tělo dokáže využít bez zapojení složitého trávení."
+    ],
+    "mythAndFact": "Mýtus: Samotné BCAA stačí k masivnímu růstu svalové hmoty.\nFakt: Nestačí. Leucin sice zapne signál k růstu, ale abychom sval skutečně postavili, potřebujeme cihly – a těmi je zbylých 6 esenciálních aminokyselin. Bez nich proces růstu brzy skončí. BCAA jsou skvělé na energii a proti únavě, na růst jsou lepší EAA.",
+    "specificWarning": "Vliv na psychiku: Při velmi vysokých dávkách mohou BCAA v mozku soutěžit o transport s aminokyselinou tryptofan, což může mírně ovlivnit tvorbu serotoninu. Při běžném dávkování do 10-15 g denně je však tento efekt naprosto zanedbatelný a bezpečný.",
+    "imagePath": "bcaa.jpg"
   }
   ]
