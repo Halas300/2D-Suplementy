@@ -236,5 +236,22 @@
     "mythAndFact": "Mýtus: Když se hodně zpotíte, nejlepší a nejrychlejší hydratací je vypít litry čisté pramenité vody.\nFakt: Pití obrovského množství čisté vody bez elektrolytů při velkém pocení je nebezpečné. Voda rozředí zbývající minerály v krvi (stav zvaný hyponatrémie), což vede k okamžitému nástupu těžkých křečí, motání hlavy a rapidnímu poklesu fyzického výkonu.",
     "specificWarning": "Sodík a tlak: Vzhledem k tomu, že elektrolyty obsahují větší množství sodíku (který je klíčový pro zadržení vody v krvi sportovce), lidé s vrozeným vysokým krevním tlakem by měli celkový denní příjem konzultovat se svým lékařem.",
     "imagePath": "elektrolyty.jpg"
+  },
+  {
+    "name": "Melatonin",
+    "category": "Spánek a Zklidnění",
+    "scientificScore": "Stupeň 1: Silné klinické důkazy.",
+    "summary": "Melatonin, často označovaný jako „hormon spánku“, je látka, kterou si naše tělo (konkrétně šišinka mozková) přirozeně vytváří po setmění. Slouží jako hlavní dirigent našeho cirkadiánního rytmu (vnitřních biologických hodin). V dnešní době plné umělého modrého světla z obrazovek se jeho přirozená tvorba často blokuje, což vede k problémům s usínáním. Suplementace melatoninu tělu dodá jasný chemický signál, že je noc a čas jít spát.",
+    "dosage": "Typicky 1–3 mg denně.\n\nZlaté pravidlo u melatoninu zní: Méně je často více. Vysoké dávky (5 mg a více) nejsou účinnější, naopak mohou způsobit ranní ospalost a „kocovinu“. Vždy se snažte najít nejnižší možnou dávku, která u vás funguje.",
+    "timing": "Užívejte přesně 30–60 minut před plánovaným ulehnutím ke spánku. Po užití byste se již měli vyhýbat ostrému a modrému světlu, jinak se účinek částečně naruší.",
+    "howItWorks": "Melatonin nefunguje jako klasické farmaceutické sedativum nebo prášek na spaní, který by vás „vypnul“. Místo toho se váže na specifické receptory v mozku, čímž snižuje nervovou aktivitu a dává tělu signál k celkovému útlumu. Současně mírně snižuje tělesnou teplotu, což je klíčový fyziologický krok nezbytný pro přechod do hlubokého spánku.",
+    "benefits": [
+      "Výrazné zkrácení doby potřebné k usnutí (latence spánku).",
+      "Skvělý pomocník pro srovnání režimu při cestování přes časová pásma (jet lag) nebo při směnách.",
+      "Zlepšení celkové architektury spánku, což maximalizuje noční uvolňování přirozeného růstového hormonu."
+    ],
+    "mythAndFact": "Mýtus: Melatonin je návykový prášek na spaní a pokud ho vysadím, už nikdy neusnu.\nFakt: Melatonin není fyzicky návykový a tělo si na něj nevytváří klasickou toleranci. Vaše šišinka mozková navíc nepřestane tvořit vlastní melatonin jen proto, že ho doplňujete externě.",
+    "specificWarning": "Ranní únava: Pokud se ráno cítíte „přejetí“, pravděpodobně jste zvolili příliš vysokou dávku nebo jste si melatonin vzali příliš pozdě v noci.\n\nŽivé sny: U některých uživatelů může suplementace melatoninu vyvolat velmi živé, barvité a občas i zvláštní sny, což je zcela neškodný vedlejší efekt.",
+    "imagePath": "melatonin.jpg"
   }
   ]
