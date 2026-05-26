@@ -185,5 +185,22 @@
     "mythAndFact": "Mýtus: Bez kofeinu nemá předtréninkovka smysl, protože vám nedodá žádnou energii.\nFakt: Energie nemusí pocházet jen ze stimulace mozku. Masivní průtok krve a kyslíku vyvolaný bezkofeinovou pumpou dodá svalovým buňkám tolik skutečného buněčného paliva, že budete schopni trénovat stejně tvrdě, ale bez následného pocitu vyčerpání a třesu rukou.",
     "specificWarning": "Krevní tlak: Vzhledem k tomu, že obsažené látky velmi efektivně rozšiřují cévy, může u citlivějších jedinců dojít k mírnému poklesu krevního tlaku. Pokud běžně trpíte na nízký tlak nebo motání hlavy při rychlém vstávání, doporučuje se začít s menším dávkováním.\n\nSprávné skladování: Tyto směsi jsou vysoce hygroskopické (přitahují vzdušnou vlhkost). Vždy dózu pevně uzavírejte, jinak může prášek ztvrdnout na kámen.",
     "imagePath": "nakopavac2.jpg"
+  },
+  {
+    "name": "Rychlé sacharidy (Maltodextrin / Cyklický dextrin)",
+    "category": "Energie a Předtréninkovky",
+    "scientificScore": "Stupeň 1: Neochvějné a stoprocentní vědecké důkazy.",
+    "summary": "Vysoce pokročilé, snadno stravitelné sacharidové zdroje s vysokým glykemickým indexem, které slouží jako okamžitá injekce čisté energie pro svaly. Oproti běžnému cukru mají tyto upravené komplexní sacharidy (zejména vysoce rozvětvený cyklický dextrin - HBCD) unikátní vlastnost – extrémně rychle opouštějí žaludek, nezatěžují trávicí trakt a dodávají glukózu do svalů plynule bez prudkých výkyvů inzulínu a následné únavy.",
+    "dosage": "Typicky 30–60 g na porci, rozmíchaných ve vodě. Přesné množství se odvíjí od tělesné hmotnosti sportovce a celkové délky a intenzity plánovaného výkonu.",
+    "timing": "Během tréninku (Intra-workout): U vytrvalostních, cyklistických či dynamických výkonů trvajících déle než 60 minut popíjejte průběžně pro udržení stabilní hladiny cukru v krvi.\n\nIhned po tréninku: V kombinaci s proteinem poslouží k okamžitému nastartování obnovy vyčerpaného svalového glykogenu.",
+    "howItWorks": "Díky své nízké osmolalitě tyto moderní sacharidy nezůstávají v žaludku, kde by způsobovaly šplouchání a těžkost, ale bleskově procházejí do tenkého střeva. Zde se okamžitě štěpí na čistou glukózu a proudí do krevního oběhu. Svaly tak získávají přímé palivo pro obnovu ATP a šetří své vlastní vnitřní zásoby glykogenu, což dramaticky oddaluje celkové vyčerpání a zabraňuje poklesu dynamiky a výbušnosti v druhé polovině výkonu.",
+    "benefits": [
+      "Okamžitý a stabilní přísun energie přímo do pracujících svalů bez jakýchkoliv zažívacích potíží.",
+      "Efektivní ochrana svalové hmoty před spálením jako nouzového paliva při dlouhém výkonu.",
+      "Radikální zkrácení doby potřebné pro po-tréninkovou regeneraci a doplnění sil."
+    ],
+    "mythAndFact": "Mýtus: Rychlé sacharidy jsou jen drahý cukr, po kterém se hned tloustne do tukových zásob.\nFakt: Pokud jsou rychlé sacharidy konzumovány striktně během intenzivního fyzického výkonu nebo bezprostředně po něm, tělo je do tuků neuloží. Využije je stoprocentně jako prioritní palivo pro svalovou práci a okamžitou obnovu vyčerpaných zásob.",
+    "specificWarning": "Ředění vodou: Rychlé sacharidy nikdy nekonzumujte ve formě příliš husté kaše bez dostatku tekutin. Pokud roztok namícháte příliš koncentrovaný, natáhne si vodu z těla zpět do žaludku, což by vedlo k žaludečním křečím a mírné dehydrataci.",
+    "imagePath": "sacharidy.jpg"
   }
   ]
