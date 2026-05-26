@@ -134,5 +134,22 @@
     "mythAndFact": "Mýtus: Samotné BCAA stačí k masivnímu růstu svalové hmoty.\nFakt: Nestačí. Leucin sice zapne signál k růstu, ale abychom sval skutečně postavili, potřebujeme cihly – a těmi je zbylých 6 esenciálních aminokyselin. Bez nich proces růstu brzy skončí. BCAA jsou skvělé na energii a proti únavě, na růst jsou lepší EAA.",
     "specificWarning": "Vliv na psychiku: Při velmi vysokých dávkách mohou BCAA v mozku soutěžit o transport s aminokyselinou tryptofan, což může mírně ovlivnit tvorbu serotoninu. Při běžném dávkování do 10-15 g denně je však tento efekt naprosto zanedbatelný a bezpečný.",
     "imagePath": "bcaa.jpg"
+  },
+  {
+    "name": "L-Glutamin",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 2: Střední klinické důkazy.",
+    "summary": "L-Glutamin je vůbec nejčastěji se vyskytující volná aminokyselina v lidském těle – tvoří až 60 % všech aminokyselin ve svalové tkáni. Přestože si ho tělo dokáže v omezené míře vyrobit samo, při extrémní fyzické zátěži, vyčerpání nebo stresu jeho spotřeba stoupá tak dramaticky, že ho tělo nestíhá doplňovat. Suplementace Glutaminu je klíčová nejen pro svalovou regeneraci a udržení hydratace buněk, ale hraje zcela zásadní roli v podpoře imunitního systému a zdraví střevního traktu sportovce.",
+    "dosage": "Standardně 5–10 g na jednu porci.\n\nJedná se o čistý, bílý prášek bez výrazné chuti. Lze ho snadno rozpustit ve vodě, zamíchat do po-tréninkového proteinového koktejlu, nebo užít přímo na lžičku a zapít vodou.",
+    "timing": "Ihned po tréninku: Pomáhá bleskově obnovit hladinu glutaminu ve svalech, která po těžkém výkonu klesá až o polovinu, a urychluje doplnění svalového glykogenu.\n\nVečer před spaním: Podporuje regenerační procesy během hlubokého spánku a stimuluje přirozené vyplavování růstového hormonu.",
+    "howItWorks": "Glutamin funguje v těle jako zásadní přenašeč dusíku a udržuje buňky v optimálně hydratovaném stavu (tlačí vodu do buněk, podobně jako kreatin). Co je ale nejdůležitější – glutamin je hlavním „palivem“ pro buňky imunitního systému (lymfocyty) a buňky střevní sliznice (enterocyty). Při vyčerpání po těžkém tréninku si imunitní buňky vezmou glutamin ze svalů, což může vést ke ztrátě svalové hmoty a oslabení imunity. Dodáním externího glutaminu tento deficit okamžitě vymažete.",
+    "benefits": [
+      "Zásadní podpora imunity a prevence onemocnění po vysoce intenzivních výkonech.",
+      "Zlepšení celkové regenerace, snížení svalového katabolismu a lepší hydratace buněk.",
+      "Podpora zdraví a celistvosti střevní sliznice, což zlepšuje vstřebávání všech ostatních živin."
+    ],
+    "mythAndFact": "Mýtus: Glutamin zvyšuje sílu a svalový objem stejně radikálně jako kreatin.\nFakt: Nezvýší. Glutamin nefunguje primárně na přímé zvedání silových výkonů. Jeho síla tkví v zákulisní práci – zkracuje čas potřebný na regeneraci a chrání zdraví, díky čemuž můžete trénovat častěji a tvrději.",
+    "specificWarning": "Bezpečnost: L-Glutamin je pro tělo naprosto přirozená látka. Dlouhodobé studie potvrzují vysokou bezpečnost i při dávkách kolem 20–30 g denně. Vyšší jednorázové dávky jsou však zbytečné, protože nadbytek glutaminu jednoduše využijí střeva a játra pro své vlastní potřeby a do svalů se už nedostane.",
+    "imagePath": "glutamin.jpg"
   }
   ]
