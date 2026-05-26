@@ -151,5 +151,22 @@
     "mythAndFact": "Mýtus: Glutamin zvyšuje sílu a svalový objem stejně radikálně jako kreatin.\nFakt: Nezvýší. Glutamin nefunguje primárně na přímé zvedání silových výkonů. Jeho síla tkví v zákulisní práci – zkracuje čas potřebný na regeneraci a chrání zdraví, díky čemuž můžete trénovat častěji a tvrději.",
     "specificWarning": "Bezpečnost: L-Glutamin je pro tělo naprosto přirozená látka. Dlouhodobé studie potvrzují vysokou bezpečnost i při dávkách kolem 20–30 g denně. Vyšší jednorázové dávky jsou však zbytečné, protože nadbytek glutaminu jednoduše využijí střeva a játra pro své vlastní potřeby a do svalů se už nedostane.",
     "imagePath": "glutamin.jpg"
+  },
+  {
+    "name": "Stimulační předtréninková směs (Nakopávač)",
+    "category": "Energie a Předtréninkovky",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro hlavní složky.",
+    "summary": "Komplexní vícesložková směs navržená pro maximální psychickou i fyzickou stimulaci před náročným výkonem. Kombinuje silné stimulanty nervové soustavy s látkami podporujícími svalovou vytrvalost a větvenými aminokyselinami. Je ideálním nástrojem pro potlačení akutní únavy, zostření smyslů, zvýšení koncentrace a mobilizaci všech energetických zásob organismu před těžkým tréninkem nebo důležitým startem.",
+    "dosage": "Standardně 10–20 g prášku (přesně dle koncentrace konkrétního výrobku) rozmíchaných ve 250–300 ml čisté studené vody. Lze si koupit jednu davku v malé lahvičce.\n\nZačátečníkům se důrazně doporučuje začít na poloviční dávce pro otestování individuální citlivosti na kofein a další silné obsažené látky.",
+    "timing": "Před výkonem: Užívejte zhruba 20–30 minut před začátkem fyzické aktivity. To je přesný čas, který stimulanty potřebují k plnému vstřebání do krevního oběhu a projevují se první silné účinky nástupu energie.",
+    "howItWorks": "Hlavní motor směsi – kofein – bleskově blokuje adenosinové receptory v mozku, čímž tělu znemožní vnímat únavu a nastartuje produkci dopaminu a adrenalinu. Složky jako L-Citrulin zároveň zvyšují produkci oxidu dusnatého, který roztáhne cévy a pustí do pracujících svalů maximum kyslíku. Obsažený Beta-Alanin navíc v buňkách tvoří karnosinu, který funguje jako nárazník proti kyselině mléčné – svaly tak začnou pálit a tuhnout o poznání později, což vám umožní udržet maximální intenzitu po delší čas.",
+    "benefits": [
+      "Extrémní a okamžitý nárůst fyzické energie, bdělosti, motivace a soustředění na výkon.",
+      "Masivní prokrvení svalové tkáně, které zajišťuje bleskový transport živin a kyslíku.",
+      "Znatelné oddálení svalového vyčerpání a zvýšení prahu bolesti při intenzivních sprintech či sériích."
+    ],
+    "mythAndFact": "Mýtus: Čím víc nakopávač na kůži mravenčí a píchá, tím víc vám dává reálné energie.\nFakt: Akutní mravenčení a svědění (nejčastěji na obličeji a rukou) způsobuje Beta-Alanin. Jde o zcela neškodnou neurologickou reakci zvanou parestézie. S okamžitou psychickou stimulací to nemá nic společného – Beta-Alanin funguje na principu dlouhodobého nasycení buněk, podobně jako kreatin.",
+    "specificWarning": "Nespavost a spánek: Kvůli vysokým dávkám kofeinu (často kolem 200-300 mg v dávce) neužívejte nakopávač méně než 5 až 6 hodin před plánovaným spánkem, jinak riskujete vážné narušení hlubokých fází regenerace.\n\nBudování tolerance: Lidský mozek si na stimulanty velmi rychle zvyká. Pokud budete nakopávač brát před každým tréninkem, účinek vyprchá a budete muset dávky zvyšovat. Doporučuje se po 4–6 týdnech produkt na 14 dní úplně vysadit.",
+    "imagePath": "nakopavac.jpg"
   }
   ]
