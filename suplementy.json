@@ -253,5 +253,22 @@
     "mythAndFact": "Mýtus: Melatonin je návykový prášek na spaní a pokud ho vysadím, už nikdy neusnu.\nFakt: Melatonin není fyzicky návykový a tělo si na něj nevytváří klasickou toleranci. Vaše šišinka mozková navíc nepřestane tvořit vlastní melatonin jen proto, že ho doplňujete externě.",
     "specificWarning": "Ranní únava: Pokud se ráno cítíte „přejetí“, pravděpodobně jste zvolili příliš vysokou dávku nebo jste si melatonin vzali příliš pozdě v noci.\n\nŽivé sny: U některých uživatelů může suplementace melatoninu vyvolat velmi živé, barvité a občas i zvláštní sny, což je zcela neškodný vedlejší efekt.",
     "imagePath": "melatonin.jpg"
+  },
+  {
+    "name": "Ashwagandha (Indický ženšen)",
+    "category": "Spánek a Zklidnění",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro snižování stresu.",
+    "summary": "Ashwagandha je jednou z nejdůležitějších bylin tradiční ájurvédské medicíny a v moderním fitness světě zažívá obrovský boom. Patří do skupiny tzv. adaptogenů – látek, které prokazatelně zvyšují odolnost organismu proti fyzickému i psychickému stresu. Je to ultimátní nástroj pro zklidnění přetíženého nervového systému po těžkém tréninku, snížení úzkosti a navození hluboké, regenerační relaxace.",
+    "dosage": "Běžně 300–600 mg kvalitního extraktu denně.\n\nNejlépe fungují standardizované extrakty (jako je např. patentovaný extrakt KSM-66), které garantují vysoký obsah účinných látek zvaných withanolidy.",
+    "timing": "Lze užívat kdykoliv během dne. Pro podporu spánku a zklidnění nervové soustavy je ideální užít celou dávku večer s posledním jídlem.",
+    "howItWorks": "Chronický stres (ať už z těžkých tréninků, nebo z práce) udržuje v těle vysokou hladinu kortizolu – stresového hormonu, který blokuje regeneraci, podporuje ukládání tuku a narušuje spánek. Ashwagandha v těle funguje jako „tlumič“. Přirozenou chemickou cestou radikálně snižuje vyplavování kortizolu, čímž tělo vyvede ze stavu permanentního ohrožení („bojuj nebo uteč“) do stavu odpočinku a oprav.",
+    "benefits": [
+      "Klinicky prokázané snížení vnímaného stresu, napětí a úzkosti.",
+      "Zkvalitnění spánku a mnohem snazší přechod do relaxačního módu ve večerních hodinách.",
+      "Nepřímá podpora testosteronu u mužů (díky snížení kortizolu, který testosteron přirozeně potlačuje)."
+    ],
+    "mythAndFact": "Mýtus: Ashwagandha funguje okamžitě po spolknutí první kapsle, podobně jako hořčík nebo melatonin.\nFakt: Není to akutní sedativum. Aby se její účinek na hormonální a nervový systém naplno projevil, musí se v těle „nastřádat“. Plné a citelné účinky se obvykle dostaví až po 2–4 týdnech pravidelného každodenního užívání.",
+    "specificWarning": "Štítná žláza: Ashwagandha může mírně stimulovat produkci hormonů štítné žlázy. Pokud se léčíte s hyperfunkcí štítné žlázy, konzultujte užívání s lékařem.\n\nCyklování: Vzhledem k její síle se často doporučuje ji po několika měsících užívání na 2–4 týdny vysadit (cyklovat), aby si tělo na účinek příliš nezvyklo.",
+    "imagePath": "ashwagandha.jpg"
   }
   ]
