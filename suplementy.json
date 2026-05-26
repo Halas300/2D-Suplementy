@@ -100,5 +100,22 @@
     "mythAndFact": "Mýtus: Hovězí protein chutná jako rozmixovaný hovězí steak nebo vývar.\nFakt: Při technologické výrobě se z masa izoluje pouze čistá bílkovina a masová příchuť se kompletně odstraní. Výsledný prášek se standardně ochucuje (nejčastěji čokoládou nebo karamelem) a chutná jako klasický sladký proteinový koktejl.",
     "specificWarning": "Konzistence a pěnivost: Hydrolyzovaný hovězí protein má kvůli specifické struktuře peptidů tendenci po protřepání v šejkru o něco více pěnit. Může mít také velmi lehký, přirozeně nahořklý podtón na konci doušku, což je u čistých hydrolyzátů běžná vlastnost.\n\nKvalita zdroje: Vždy je dobré sledovat, z jaké suroviny je protein vyroben. Doporučuje se hledat certifikované suroviny (např. HydroBEEF), které garantují, že protein pochází z čisté hovězí svaloviny a nikoliv z levných odpadních kůží a chrupavek.",
     "imagePath": "hoveziprotein.jpg"
+  },
+  {
+    "name": "EAA (Esenciální aminokyseliny)",
+    "category": "Síla a Budování svalů",
+    "scientificScore": "Stupeň 1-2: Silné vědecké důkazy.",
+    "summary": "EAA (Essential Amino Acids) je komplex devíti esenciálních aminokyselin, které si lidské tělo nedokáže samo vyprodukovat, a proto je zcela závislé na jejich příjmu z potravy nebo suplementů. Na rozdíl od klasického proteinu jsou tyto aminokyseliny již v čisté, volné formě. Představují okamžitě dostupný stavební materiál pro svaly, který tělo nemusí nijak trávit, což z nich dělá dokonalý nástroj pro ochranu svalové hmoty a nastartování regenerace přímo během náročného fyzického výkonu.",
+    "dosage": "Typicky 10–15 g na jednu porci.\n\nPrášek se rozmíchá ve studené vodě. Vzhledem k tomu, že čisté aminokyseliny mají přirozeně velmi hořkou chuť, bývají tyto produkty poměrně silně ochucené a dají se pít jako osvěžující sportovní nápoj.",
+    "timing": "Během tréninku (Intra-workout): Naprosto ideální čas. Popíjení EAA během zátěže dodává svalům energii a brání katabolismu.\n\nPřed tréninkem: Vhodné v případě, že jdete cvičit nalačno nebo s velkým odstupem od posledního pevného jídla.",
+    "howItWorks": "Když vypijete klasický protein nebo sníte maso, tělo musí bílkoviny nejdříve složitě rozštěpit na aminokyseliny, což trvá hodiny a vyžaduje to energii. EAA tento proces zcela obcházejí. Bleskově procházejí žaludkem a do krevního oběhu se dostávají v řádu minut. Svalové buňky tak mají okamžitě k dispozici kompletní spektrum zdrojů pro syntézu bílkovin právě ve chvíli, kdy jsou pod největším tlakem a stresem z tréninku.",
+    "benefits": [
+      "Okamžitá syntéza bílkovin a bleskový start regenerace svalů.",
+      "Maximální ochrana svalové hmoty před rozpadem (katabolismem) během dlouhých tréninků.",
+      "Nulová zátěž pro trávicí trakt – nezpůsobuje pocity těžkosti v žaludku při sportu."
+    ],
+    "mythAndFact": "Mýtus: Popíjení EAA plně nahradí syrovátkový nebo hovězí protein.\nFakt: Nenahradí. EAA jsou sice skvělé k ochraně svalů přímo při sportu, ale pro celkové budování hmoty a pokrytí vysokého denního příjmu bílkovin jsou komplexní proteiny nebo pevná strava stále nezbytným základem.",
+    "specificWarning": "Rychlost vstřebávání: Protože se EAA vstřebávají extrémně rychle, u citlivějších jedinců může vypití celé velké dávky naráz nalačno způsobit mírný pohyb v žaludku. Doporučuje se proto nápoj popíjet postupně po doušcích po celou dobu tréninku.\n\nKvalita složení: Vždy zkontrolujte, zda produkt obsahuje všech 9 esenciálních aminokyselin, nikoliv jen některé vybrané.",
+    "imagePath": "eaa.jpg"
   }
-]
+  ]
