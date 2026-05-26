@@ -22,7 +22,7 @@ public class FinalSupplementDetailWindow {
         headerPanel.setBackground(Color.WHITE);
         JLabel imageLabel = new JLabel();
         try {
-            BufferedImage img = ImageIO.read(new File(supplement.getImagePath()));
+            BufferedImage img = ImageIO.read(new File("images/" + supplement.getImagePath()));
             int originalWidth = img.getWidth();
             int originalHeight = img.getHeight();
             double aspectRatio = (double) originalWidth / originalHeight;
