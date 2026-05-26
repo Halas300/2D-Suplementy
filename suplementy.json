@@ -168,5 +168,22 @@
     "mythAndFact": "Mýtus: Čím víc nakopávač na kůži mravenčí a píchá, tím víc vám dává reálné energie.\nFakt: Akutní mravenčení a svědění (nejčastěji na obličeji a rukou) způsobuje Beta-Alanin. Jde o zcela neškodnou neurologickou reakci zvanou parestézie. S okamžitou psychickou stimulací to nemá nic společného – Beta-Alanin funguje na principu dlouhodobého nasycení buněk, podobně jako kreatin.",
     "specificWarning": "Nespavost a spánek: Kvůli vysokým dávkám kofeinu (často kolem 200-300 mg v dávce) neužívejte nakopávač méně než 5 až 6 hodin před plánovaným spánkem, jinak riskujete vážné narušení hlubokých fází regenerace.\n\nBudování tolerance: Lidský mozek si na stimulanty velmi rychle zvyká. Pokud budete nakopávač brát před každým tréninkem, účinek vyprchá a budete muset dávky zvyšovat. Doporučuje se po 4–6 týdnech produkt na 14 dní úplně vysadit.",
     "imagePath": "nakopavac.jpg"
+  },
+  {
+    "name": "Bezkofeinová předtréninkovka (Pumpa)",
+    "category": "Energie a Předtréninkovky",
+    "scientificScore": "Stupeň 1-2: Velmi silné klinické důkazy.",
+    "summary": "Pokročilá předtréninková směs bez obsahu kofeinu a jiných agresivních stimulantů. Je navržena s jasným cílem – vyvolat maximální možné prokrvení svalů, zvýšit buněčnou hydrataci a podpořit mentalitu výkonu čistě přírodní a mechanickou cestou. Představuje dokonalé řešení pro sportovce, kteří chtějí těžit z výhod předtréninkových směsí, ale vyhnout se negativním projevům kofeinu, jako je bušení srdce, nervozita nebo následný energetický propad.",
+    "dosage": "Obvykle 15–20 g prášku rozpuštěného ve 300 ml vody.\n\nProtože neobsahuje kofein, není nutné se obávat předávkování stimulanty, nicméně je důležité dodržovat stanovené množství kvůli optimální koncentraci aktivních látek pro krevní řečiště.",
+    "timing": "Užívejte 30 minut před tréninkem nebo závodem. Je to naprosto ideální volba pro tréninky v pozdních odpoledních a večerních hodinách, kdy potřebujete podat stoprocentní výkon, ale zároveň chcete v noci klidně spát.",
+    "howItWorks": "Tento produkt stojí na masivních dávkách L-Citrulin malátu, Argininu a rostlinných nitrátů (např. z červené řepy). Tyto látky se v těle přeměňují na oxid dusnatý (NO), který působí na hladké svalstvo cév a způsobuje jejich výrazné rozšíření (vazodilataci). Výsledkem je, že krev proudí do svalů pod menším odporem, což srdci usnadňuje práci. Svaly jsou doslova zaplaveny krví, nafouknou se a získají obrovský přísun paliva, zatímco obsažené nootropika (jako cholin nebo tyrosin) jemně podpoří soustředění bez bušení srdce.",
+    "benefits": [
+      "Extrémní, dlouhotrvající prokrvení, plnost svalů a žilnatost bez vnitřního neklidu.",
+      "Bleskový odvod laktátu a odpadních látek ze svalů, což zmírňuje únavu přímo během výkonu.",
+      "Možnost trénovat na 100 % v pozdních večerních hodinách bez jakéhokoliv ohrožení kvality spánku."
+    ],
+    "mythAndFact": "Mýtus: Bez kofeinu nemá předtréninkovka smysl, protože vám nedodá žádnou energii.\nFakt: Energie nemusí pocházet jen ze stimulace mozku. Masivní průtok krve a kyslíku vyvolaný bezkofeinovou pumpou dodá svalovým buňkám tolik skutečného buněčného paliva, že budete schopni trénovat stejně tvrdě, ale bez následného pocitu vyčerpání a třesu rukou.",
+    "specificWarning": "Krevní tlak: Vzhledem k tomu, že obsažené látky velmi efektivně rozšiřují cévy, může u citlivějších jedinců dojít k mírnému poklesu krevního tlaku. Pokud běžně trpíte na nízký tlak nebo motání hlavy při rychlém vstávání, doporučuje se začít s menším dávkováním.\n\nSprávné skladování: Tyto směsi jsou vysoce hygroskopické (přitahují vzdušnou vlhkost). Vždy dózu pevně uzavírejte, jinak může prášek ztvrdnout na kámen.",
+    "imagePath": "nakopavac2.jpg"
   }
   ]
