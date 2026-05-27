@@ -338,5 +338,22 @@
     "mythAndFact": "Mýtus: Všechny rybí oleje jsou stejné, stačí koupit ten nejlevnější v lékárně.\nFakt: Levné rybí oleje jsou často zoxidované (žluklé) a plné těžkých kovů z velkých ryb. Takový olej tělu více uškodí, než pomůže. Kvalitní Omega-3 se získávají z malých rybek (sardinky, ančovičky) a procházejí přísným čištěním.",
     "specificWarning": "Rybí říhání (Fish burps): Nekvalitní nebo zoxidované oleje mohou způsobovat nepříjemné říhání s rybí pachutí. Zmírnit to lze tím, že kapsle budete uchovávat v lednici a zapijete je dostatkem vody uprostřed většího jídla.\n\nŘedění krve: Při extrémně vysokých dávkách mohou Omega-3 mírně ředit krev, což je důležité zmínit při případných chirurgických zákrocích.",
     "imagePath": "omega3.jpg"
+  },
+  {
+    "name": "Lví hříva (Lion's Mane)",
+    "category": "Mozek",
+    "scientificScore": "Stupeň 2: Slibné studie a obrovský klinický potenciál.",
+    "summary": "Lví hříva (latinsky Hericium erinaceus) je fascinující medicinální houba, která svým vzhledem připomíná bílé kaskádovité rampouchy nebo právě lví hřívu. V tradiční čínské medicíně se používá tisíce let, ale moderní věda z ní udělala krále přírodních nootropik (látek pro podporu mozku). Je to jeden z mála přírodních produktů na světě, u kterého bylo prokázáno, že dokáže fyzicky stimulovat růst a opravu mozkových buněk.",
+    "dosage": "Typicky 500–1500 mg kvalitního extraktu denně.\n\nPrášek z obyčejné namleté houby je pro člověka téměř nestravitelný (náš žaludek neumí rozbít tvrdý chitin v buněčných stěnách houby). Vždy musíte hledat produkt označený jako „Extrakt“ (ideálně tzv. dvojitý extrakt s využitím vody i alkoholu), který účinné látky z houby uvolní.",
+    "timing": "Ráno nebo v brzkém odpoledni. Jelikož podporuje mentální jasnost a soustředění, je ideální si ji dát před prací, učením, nebo náročným strategickým tréninkem. Sama o sobě ale neobsahuje žádný stimulant, takže nenarušuje spánek.",
+    "howItWorks": "Lví hříva obsahuje dvě unikátní skupiny látek – hericenony a erinaciny. Tyto látky jsou dostatečně malé na to, aby dokázaly projít přes hematoencefalickou bariéru (ochranný štít mozku) přímo do mozku. Zde stimulují produkci takzvaného nervového růstového faktoru (NGF) a BDNF (Brain-Derived Neurotrophic Factor). Tyto proteiny fungují jako „hnojivo“ pro mozek – pomáhají neuronům vytvářet nová spojení (synapse) a chrání ty stávající před odumíráním.",
+    "benefits": [
+      "Zvýšení schopnosti učit se nové věci, lepší koncentrace a mentální jasnost (odbourává tzv. „brain fog“).",
+      "Ochrana nervové soustavy a dlouhodobá podpora paměti.",
+      "Přirozené zklidnění mysli a mírné snížení pocitů úzkosti a deprese."
+    ],
+    "mythAndFact": "Mýtus: Jedná se o „magickou“ houbu, která způsobuje halucinace.\nFakt: Lví hříva je 100% legální, naprosto bezpečná a nemá žádné psychoaktivní nebo halucinogenní účinky. Jedná se o adaptogen a jedlou houbu, která se v Asii běžně používá i v kulinářství.",
+    "specificWarning": "Rychlost účinku: Podobně jako u Ashwagandhy, ani Lví hříva není stimulant jako kofein. Nevypijete ji a neucítíte okamžitý „kopanec“. Obnova nervových spojení je pomalý proces a hlavní kognitivní benefity se začnou projevovat až po několika týdnech pravidelného užívání.\n\nAlergie: Lidé s obecnou alergií na jedlé houby by měli být obezřetní.",
+    "imagePath": "lvihriva.jpg"
   }
   ]
