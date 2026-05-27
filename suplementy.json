@@ -304,5 +304,22 @@
     "mythAndFact": "Mýtus: Šumivé tablety hořčíku ze supermarketu vyřeší moje křeče.\nFakt: Tyto tablety obsahují téměř vždy oxid nebo uhličitan hořečnatý s nulovou biologickou využitelností. Jediné, co pravděpodobně způsobí, jsou mírné střevní potíže, protože nestrávený hořčík na sebe ve střevech váže vodu.",
     "specificWarning": "Trávicí potíže: Některé formy hořčíku (zejména Citrát) mají při vyšších dávkách přirozeně projímavý (laxativní) účinek. Pokud po užití cítíte nevolnost nebo průjem, snižte dávku nebo přejděte na šetrnější chelátovou formu (Bisglycinát).\n\nKombinace s vápníkem: Neužívejte hořčík ve stejnou chvíli společně s vápníkem nebo zinkem, protože tyto minerály navzájem soutěží o vstřebání ve střevech.",
     "imagePath": "horcik.jpg"
+  },
+  {
+    "name": "Zinek",
+    "category": "Vitamíny a Minerály",
+    "scientificScore": "Stupeň 1: Silné vědecké i klinické důkazy.",
+    "summary": "Zinek je esenciální stopový prvek, který je naprosto nezbytný pro správné fungování buněk. Pro tvrdě trénující jedince má dvojnásobný význam. Zaprvé, tvoří samotný štít našeho imunitního systému, který je po těžkém tréninku vždy dočasně oslaben. A zadruhé, je zcela kritickým prvkem pro tvorbu mužského pohlavního hormonu – testosteronu. Tělo si ho neumí vyrobit ani dlouhodobě skladovat, a navíc ho sportovci ve velkém množství vylučují potem.",
+    "dosage": "Běžně 15–25 mg denně.\n\nStejně jako u hořčíku i zde platí, že nejlepší vstřebatelnost mají chelátové formy (Zinek Bisglycinát nebo Picolinát). Při nemoci se dávka může krátkodobě zvýšit, dlouhodobě však dávky nad 40 mg denně mohou být toxické.",
+    "timing": "Ideálně s jídlem nebo večer před spaním (často se kombinuje s hořčíkem a vitamínem B6 do populární směsi ZMA).",
+    "howItWorks": "Zinek je obsažen ve více než 300 enzymech v lidském těle. Doslova se podílí na čtení DNA a přepisování buněčných informací, což je zásadní pro dělení buněk, tvorbu bílkovin a hojení tkání. V hormonálním systému hraje nezastupitelnou roli při přeměně cholesterolu na testosteron a zabraňuje přeměně testosteronu na ženský estrogen.",
+    "benefits": [
+      "Optimalizace přirozené tvorby testosteronu u mužů a udržení hormonální rovnováhy.",
+      "Zásadní posílení imunity a zkrácení doby trvání běžného nachlazení.",
+      "Zrychlení hojení ran, oprava svalových vláken a zlepšení kvality pokožky (prevence akné)."
+    ],
+    "mythAndFact": "Mýtus: Když do sebe nasypu spoustu zinku, zvedne se mi testosteron do kulturistických výšin.\nFakt: Zinek nezvyšuje testosteron nad vaši přirozenou genetickou hranici. Pokud ho však máte v těle nedostatek (což má spousta sportujících mužů), doplnění zinku váš testosteron zachrání a „opraví“ ho zpět na optimální hladinu.",
+    "specificWarning": "Těžká nevolnost: Zinek nikdy, ale opravdu nikdy neužívejte nalačno! U drtivé většiny lidí způsobí čistý zinek ve zcela prázdném žaludku do 15 minut silnou akutní nevolnost a nutkání ke zvracení.\n\nSoutěž s mědí: Dlouhodobé užívání vysokých dávek zinku může z těla odplavovat měď. V kvalitních doplňcích proto často najdete zinek a měď v přesném vyváženém poměru.",
+    "imagePath": "zinek.jpg"
   }
   ]
