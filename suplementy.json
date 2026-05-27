@@ -372,5 +372,22 @@
     "mythAndFact": "Mýtus: Místo drahého kolagenu mi stačí jíst gumové medvídky nebo obyčejnou želatinu na pečení.\nFakt: Gumoví medvídci obsahují absolutní minimum želatiny (a hromadu cukru). Navíc běžná potravinářská želatina není hydrolyzovaná. Tělo ji velmi špatně tráví a její využitelnost pro reálnou opravu kloubů je oproti peptidům zanedbatelná.",
     "specificWarning": "Nutnost Vitamínu C: Aby tělo vůbec dokázalo přijatý kolagen zpracovat a zabudovat ho do šlach, bezpodmínečně k tomu potřebuje Vitamín C. Kvalitní kloubní doplňky ho již mají v sobě, pokud máte čistý kolagen, vždy ho užijte s kouskem ovoce nebo kapslí „céčka“.\n\nNení to kompletní bílkovina: Kolagen sice obsahuje hodně bílkovin, ale chybí mu esenciální aminokyselina tryptofan. Proto se nedá započítávat do denního příjmu bílkovin pro budování svalů jako běžný protein.",
     "imagePath": "kolagen.jpg"
+  },
+  {
+    "name": "Kloubní komplex (Glukosamin, Chondroitin, MSM)",
+    "category": "Klouby",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro ochranu chrupavky a zmírnění bolesti.",
+    "summary": "Komplexní kloubní výživa nespoléhá pouze na jednu látku, ale kombinuje několik nejúčinnějších složek (tradičně trio Glukosamin, Chondroitin a MSM), aby zasáhla kloub z více úhlů. Zatímco kolagen dodává stavební materiál pro šlachy a vazy, tato směs se zaměřuje na samotnou ochranu a „promazání“ třecích ploch chrupavky, potlačení hlubokých zánětů a zlepšení produkce synoviální tekutiny (kloubního mazu).",
+    "dosage": "Dávkování se liší podle koncentrace produktu – obvykle se jedná o 2–3 kapsle nebo 1 odměrku prášku denně.\n\nÚčinná denní dávka by měla obsahovat zhruba 1500 mg glukosaminu, 1000 mg chondroitinu a 1000–3000 mg MSM. Další skvělou přidanou látkou bývá Kyselina hyaluronová.",
+    "timing": "Nejlepší je užívat tyto přípravky společně s jídlem, což pomáhá minimalizovat případné podráždění žaludku a zajišťuje plynulejší vstřebávání.",
+    "howItWorks": "Glukosamin a Chondroitin jsou přirozenou strukturální součástí lidské chrupavky. Dodáním těchto látek tělu poskytujete materiál k udržení její tloušťky a elasticity, čímž tlumíte nárazy kostí o sebe. MSM (Methylsulfonylmethan) je naopak organická sloučenina síry, která působí jako extrémně silný a bezpečný přírodní protizánětlivý lék. MSM efektivně snižuje otoky a bolesti kloubů bez vedlejších účinků, které mají klasické léky proti bolesti.",
+    "benefits": [
+      "Zvýšení produkce kloubního mazu, což vede k hladšímu a bezbolestnému pohybu.",
+      "Zpomalení degradace a opotřebení kloubních chrupavek při vysoké fyzické zátěži.",
+      "Silný protizánětlivý účinek, který odstraňuje ranní ztuhlost a chronické bolesti."
+    ],
+    "mythAndFact": "Mýtus: Když mě bolí zničené koleno, koupím si kloubovku a do týdne budu zase skákat.\nFakt: Kloubní tkáně nemají vlastní cévní zásobení, takže se k nim živiny dostávají velmi pomalu. Efekt kloubní výživy není okamžitý jako u Ibalginu. Plné účinky (snížení bolesti a obnova pohyblivosti) se dostaví nejdříve po 4 až 8 týdnech každodenního užívání.",
+    "specificWarning": "Alergie na korýše: Glukosamin se ve většině doplňků vyrábí z vnějších pevných schránek mořských korýšů (krabů, krevet). Pokud trpíte silnou alergií na mořské plody, musíte hledat specifické veganské verze glukosaminu, které se vyrábějí fermentací z kukuřice.\n\nKrevní ředidla: Chondroitin může ve vysokých dávkách mírně ředit krev. Lidé užívající léky na ředění krve by měli konzultovat suplementaci s lékařem.",
+    "imagePath": "kloubnikomplex.jpg"
   }
   ]
