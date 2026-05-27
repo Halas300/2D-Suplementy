@@ -355,5 +355,22 @@
     "mythAndFact": "Mýtus: Jedná se o „magickou“ houbu, která způsobuje halucinace.\nFakt: Lví hříva je 100% legální, naprosto bezpečná a nemá žádné psychoaktivní nebo halucinogenní účinky. Jedná se o adaptogen a jedlou houbu, která se v Asii běžně používá i v kulinářství.",
     "specificWarning": "Rychlost účinku: Podobně jako u Ashwagandhy, ani Lví hříva není stimulant jako kofein. Nevypijete ji a neucítíte okamžitý „kopanec“. Obnova nervových spojení je pomalý proces a hlavní kognitivní benefity se začnou projevovat až po několika týdnech pravidelného užívání.\n\nAlergie: Lidé s obecnou alergií na jedlé houby by měli být obezřetní.",
     "imagePath": "lvihriva.jpg"
+  },
+  {
+    "name": "Kolagen (Kolagenní peptidy)",
+    "category": "Klouby",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro podporu pojivových tkání.",
+    "summary": "Kolagen je nejvíce zastoupená bílkovina v lidském těle. Funguje doslova jako lepidlo, které drží pohromadě naše kosti, šlachy, vazy, chrupavky i kůži. Zatímco svaly potřebují k růstu komplexní proteiny (syrovátku), šlachy a vazy vyžadují právě kolagen. S přibývajícím věkem a extrémní fyzickou zátěží však tělo ztrácí schopnost tvořit si kolagen samo v dostatečném množství, což vede k opotřebení a bolestem.",
+    "dosage": "Typicky 10–15 g denně.\n\nNaprosto klíčové je hledat takzvaný hydrolyzovaný kolagen (nebo kolagenní peptidy). Nativní kolagen má totiž obrovské molekuly, které tělo nedokáže efektivně strávit a využít. Hydrolýza tyto obří molekuly rozseká na drobné kousíčky (peptidy), které se snadno vstřebají do krve.",
+    "timing": "Kdykoliv během dne. Mnoho sportovců si ho oblíbilo přidávat do ranní kávy, čaje nebo ranní ovesné kaše, protože čisté kolagenní peptidy se perfektně rozpouštějí i v teplých nápojích a nemají žádnou chuť.",
+    "howItWorks": "Kolagen dodává tělu velmi specifický poměr tří aminokyselin – glycinu, prolinu a hydroxyprolinu. Jakmile se tyto peptidy dostanou do krevního oběhu, stimulují buňky zvané fibroblasty (v kůži a šlachách) a chondrocyty (v chrupavkách), aby začaly produkovat novou, čerstvou kolagenní tkáň. Tím se šlachy stávají pružnějšími a odolnějšími proti natržení.",
+    "benefits": [
+      "Zlepšení pružnosti, pevnosti a celkové odolnosti šlach a vazů proti mechanickému poškození.",
+      "Výrazné zmírnění chronických bolestí kloubů spojených s tvrdým tréninkem nebo věkem.",
+      "Estetický bonus: Prokazatelné zlepšení elasticity pokožky, kvality vlasů a pevnosti nehtů."
+    ],
+    "mythAndFact": "Mýtus: Místo drahého kolagenu mi stačí jíst gumové medvídky nebo obyčejnou želatinu na pečení.\nFakt: Gumoví medvídci obsahují absolutní minimum želatiny (a hromadu cukru). Navíc běžná potravinářská želatina není hydrolyzovaná. Tělo ji velmi špatně tráví a její využitelnost pro reálnou opravu kloubů je oproti peptidům zanedbatelná.",
+    "specificWarning": "Nutnost Vitamínu C: Aby tělo vůbec dokázalo přijatý kolagen zpracovat a zabudovat ho do šlach, bezpodmínečně k tomu potřebuje Vitamín C. Kvalitní kloubní doplňky ho již mají v sobě, pokud máte čistý kolagen, vždy ho užijte s kouskem ovoce nebo kapslí „céčka“.\n\nNení to kompletní bílkovina: Kolagen sice obsahuje hodně bílkovin, ale chybí mu esenciální aminokyselina tryptofan. Proto se nedá započítávat do denního příjmu bílkovin pro budování svalů jako běžný protein.",
+    "imagePath": "kolagen.jpg"
   }
   ]
