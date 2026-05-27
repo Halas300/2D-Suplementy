@@ -270,5 +270,22 @@
     "mythAndFact": "Mýtus: Ashwagandha funguje okamžitě po spolknutí první kapsle, podobně jako hořčík nebo melatonin.\nFakt: Není to akutní sedativum. Aby se její účinek na hormonální a nervový systém naplno projevil, musí se v těle „nastřádat“. Plné a citelné účinky se obvykle dostaví až po 2–4 týdnech pravidelného každodenního užívání.",
     "specificWarning": "Štítná žláza: Ashwagandha může mírně stimulovat produkci hormonů štítné žlázy. Pokud se léčíte s hyperfunkcí štítné žlázy, konzultujte užívání s lékařem.\n\nCyklování: Vzhledem k její síle se často doporučuje ji po několika měsících užívání na 2–4 týdny vysadit (cyklovat), aby si tělo na účinek příliš nezvyklo.",
     "imagePath": "ashwagandha.jpg"
+  },
+  {
+    "name": "Multivitamin",
+    "category": "Vitamíny a Minerály",
+    "scientificScore": "Stupeň 2: Střední důkazy (jako prevence nedostatku).",
+    "summary": "Multivitamin slouží jako nutriční pojištění. I když bychom měli veškeré mikroživiny přijímat z pestré a vyvážené stravy, pro tvrdě trénujícího sportovce (nebo člověka v dietě) je často velmi těžké pokrýt zvýšené nároky těla. Kvalitní komplexní multivitamin dodá tělu celé spektrum vitamínů a stopových prvků, čímž zalepí případné mezery ve vašem jídelníčku a podpoří celkovou vitalitu, energetický metabolismus a imunitní systém.",
+    "dosage": "Typicky 1 až 2 kapsle denně, přesně podle instrukcí na obalu konkrétního výrobku.\n\nZásadní je hledat takzvané „chelátové“ formy minerálů v obsahu a vyhnout se levným oxidům, které tělo nedokáže využít. Kvalitní produkty mají navíc rozdělené dávkování na ranní a večerní kapsli, aby se jednotlivé vitamíny navzájem neblokovaly.",
+    "timing": "S jídlem: Multivitamin nikdy neužívejte nalačno. Obsahuje totiž vitamíny rozpustné v tucích (A, D, E, K), které tělo dokáže vstřebat pouze tehdy, pokud je v žaludku přítomen nějaký tuk ze stravy. Ideální je vzít ho po vydatné snídani nebo po obědě.",
+    "howItWorks": "Vitamíny a minerály v těle nefungují jako přímý zdroj energie, ale fungují jako takzvané kofaktory (katalyzátory) pro tisíce biochemických reakcí. Zajišťují přeměnu jídla na energii, podílejí se na tvorbě hormonů, přenosu kyslíku, dělení buněk a obraně proti volným radikálům, které vznikají při fyzickém stresu z tréninku.",
+    "benefits": [
+      "Základní prevence proti nemocem a podpora správného fungování imunitního systému.",
+      "Optimalizace energetického metabolismu (díky komplexu vitamínů skupiny B).",
+      "Zlepšení kvality kůže, vlasů a nehtů a celková ochrana buněk před oxidativním stresem."
+    ],
+    "mythAndFact": "Mýtus: Pokud beru multivitamin, nemusím jíst zeleninu a ovoce.\nFakt: Multivitamin nenahradí pevnou stravu. Zelenina a ovoce obsahují důležitou vlákninu, fytonutrienty a antioxidanty, které v žádné tabletě nenajdete. Jde o doplněk, nikoliv náhradu zdravého životního stylu.",
+    "specificWarning": "Zářivá moč: Po užití multivitaminu se může stát, že vaše moč bude mít jasně neonově žlutou barvu. Je to naprosto neškodný projev toho, že tělo vylučuje nadbytek vitamínu B2 (Riboflavinu).\n\nPředávkování: Nikdy nepřekračujte doporučené denní dávkování. Vitamíny rozpustnými v tucích se lze předávkovat, protože si je tělo dlouhodobě ukládá do zásob.",
+    "imagePath": "multivitamin.jpg"
   }
   ]
