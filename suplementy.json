@@ -321,5 +321,22 @@
     "mythAndFact": "Mýtus: Když do sebe nasypu spoustu zinku, zvedne se mi testosteron do kulturistických výšin.\nFakt: Zinek nezvyšuje testosteron nad vaši přirozenou genetickou hranici. Pokud ho však máte v těle nedostatek (což má spousta sportujících mužů), doplnění zinku váš testosteron zachrání a „opraví“ ho zpět na optimální hladinu.",
     "specificWarning": "Těžká nevolnost: Zinek nikdy, ale opravdu nikdy neužívejte nalačno! U drtivé většiny lidí způsobí čistý zinek ve zcela prázdném žaludku do 15 minut silnou akutní nevolnost a nutkání ke zvracení.\n\nSoutěž s mědí: Dlouhodobé užívání vysokých dávek zinku může z těla odplavovat měď. V kvalitních doplňcích proto často najdete zinek a měď v přesném vyváženém poměru.",
     "imagePath": "zinek.jpg"
+  },
+  {
+    "name": "Omega-3 (Mastné kyseliny)",
+    "category": "Mozek",
+    "scientificScore": "Stupeň 1: Silné a neochvějné klinické důkazy.",
+    "summary": "Omega-3 jsou esenciální polynenasycené mastné kyseliny (především EPA a DHA), které si naše tělo nedokáže samo vyrobit. Jsou doslova základním stavebním kamenem lidského mozku – ten je totiž tvořen z téměř 60 % tukem a velkou část z toho tvoří právě DHA. Mají naprosto zásadní vliv na kognitivní funkce, paměť, zrak, ale také na zdraví srdce a cév. V dnešní stravě, která je přeplněná prozánětlivými Omega-6 mastnými kyselinami (z rostlinných olejů), je suplementace kvalitních Omega-3 z rybího oleje nutností pro udržení zdravé rovnováhy.",
+    "dosage": "Běžně 1000–3000 mg kombinované EPA a DHA denně.\n\nPři nákupu se nedívejte jen na celkovou váhu kapsle (např. 1000 mg rybího oleje), ale otočte obal a sečtěte, kolik miligramů tvoří samotná EPA a DHA. Levné produkty mají těchto účinných látek jen minimum. Hledejte také formu „triglyceridů“ (TG), která se vstřebává mnohem lépe než levnější „etylestery“ (EE).",
+    "timing": "Vždy užívejte společně s jídlem, které obsahuje nějaké tuky (např. vejce, ořechy, avokádo, maso). Omega-3 jsou rozpustné v tucích a pokud je spolknete nalačno, tělo je nedokáže efektivně vstřebat.",
+    "howItWorks": "Kyselina DHA se zabudovává přímo do membrán mozkových buněk (neuronů), čímž udržuje jejich pružnost a zlepšuje schopnost buněk mezi sebou bleskově komunikovat. To se projevuje lepším soustředěním a bystřejší myslí. Kyselina EPA naopak funguje jako silný přírodní hasič – snižuje zánětlivé procesy v celém těle (tzv. oxidativní stres), což velmi pomáhá i s regenerací namožených kloubů po těžkém tréninku.",
+    "benefits": [
+      "Zlepšení kognitivních funkcí, paměti a podpora celkového zdraví mozku.",
+      "Výrazné snížení zánětů v těle a podpora zdraví a pohyblivosti kloubů.",
+      "Prevence kardiovaskulárních onemocnění (udržuje zdravé cévy a krevní tlak)."
+    ],
+    "mythAndFact": "Mýtus: Všechny rybí oleje jsou stejné, stačí koupit ten nejlevnější v lékárně.\nFakt: Levné rybí oleje jsou často zoxidované (žluklé) a plné těžkých kovů z velkých ryb. Takový olej tělu více uškodí, než pomůže. Kvalitní Omega-3 se získávají z malých rybek (sardinky, ančovičky) a procházejí přísným čištěním.",
+    "specificWarning": "Rybí říhání (Fish burps): Nekvalitní nebo zoxidované oleje mohou způsobovat nepříjemné říhání s rybí pachutí. Zmírnit to lze tím, že kapsle budete uchovávat v lednici a zapijete je dostatkem vody uprostřed většího jídla.\n\nŘedění krve: Při extrémně vysokých dávkách mohou Omega-3 mírně ředit krev, což je důležité zmínit při případných chirurgických zákrocích.",
+    "imagePath": "omega3.jpg"
   }
   ]
