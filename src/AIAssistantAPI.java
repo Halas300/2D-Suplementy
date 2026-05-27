@@ -35,8 +35,7 @@ public class AIAssistantAPI {
         conn.setDoOutput(true);
 
         String systemPrompt = "Jsi expert na fitness a doplňky stravy. Uživatel píše: '" + userGoal + "'. " +
-                "Stručně a česky mu doporuč suplementy z tohoto seznamu: Kreatin, Protein, Hořčík, Melatonin, Zinek.";
-        // zbytek produktu sem ještě dopíšu, protože ted mám hotový pouze jeden a nevím přesně kolik toho udělam a nechci v tom mít bordel
+                "Stručně a česky mu doporuč suplementy z tohoto seznamu: Kreatin Monohydrát, Kre-Alkalyn, Kreatin Malát, Syrovátkový (Whey) Protein, Rostlinný protein (Vegan), Hovězí hydrolyzovaný protein, EAA (Esenciální aminokyseliny), BCAA (Větvené aminokyseliny), L-Glutamin, Stimulační předtréninková směs (Nakopávač), Bezkofeinová předtréninkovka (Pumpa), Rychlé sacharidy (Maltodextrin / Cyklický dextrin), Iontový nápoj, Elektrolyty (Minerální komplex), Melatonin, Ashwagandha (Indický ženšen), Multivitamin, Hořčík (Magnesium), Zinek, Omega-3 (Mastné kyseliny), Lví hříva (Lion's Mane), Kolagen (Kolagenní peptidy), Kloubní komplex (Glukosamin, Chondroitin, MSM).";
 
         String jsonInputString = "{\"contents\": [{\"parts\":[{\"text\": \"" + systemPrompt + "\"}]}]}";
         try (OutputStream os = conn.getOutputStream()) {
