@@ -287,5 +287,22 @@
     "mythAndFact": "Mýtus: Pokud beru multivitamin, nemusím jíst zeleninu a ovoce.\nFakt: Multivitamin nenahradí pevnou stravu. Zelenina a ovoce obsahují důležitou vlákninu, fytonutrienty a antioxidanty, které v žádné tabletě nenajdete. Jde o doplněk, nikoliv náhradu zdravého životního stylu.",
     "specificWarning": "Zářivá moč: Po užití multivitaminu se může stát, že vaše moč bude mít jasně neonově žlutou barvu. Je to naprosto neškodný projev toho, že tělo vylučuje nadbytek vitamínu B2 (Riboflavinu).\n\nPředávkování: Nikdy nepřekračujte doporučené denní dávkování. Vitamíny rozpustnými v tucích se lze předávkovat, protože si je tělo dlouhodobě ukládá do zásob.",
     "imagePath": "multivitamin.jpg"
+  },
+  {
+    "name": "Hořčík (Magnesium)",
+    "category": "Vitamíny a Minerály",
+    "scientificScore": "Stupeň 1: Silné a neochvějné klinické důkazy.",
+    "summary": "Hořčík je minerál, kterého má v moderní populaci drtivá většina lidí kritický nedostatek, a to především kvůli stresu, konzumaci průmyslově zpracovaných potravin a vyčerpané zemědělské půdě. Pro sportovce je naprosto nepostradatelný, protože se ho velké množství ztrácí potem. Zajišťuje správnou funkci svalů, uklidňuje nervovou soustavu a hraje klíčovou roli v kvalitě spánku a regenerace.",
+    "dosage": "Doporučená dávka je 200–400 mg čistého elementárního hořčíku denně.\n\nForma je všechno! Vyhněte se „Oxidu hořečnatému“ (Magnesium Oxide), který se prodává v běžných lékárnách – tělo z něj vstřebá jen asi 4 %. Místo toho hledejte vysoce vstřebatelné formy jako je Bisglycinát (na uklidnění), Malát (na energii) nebo Citrát (proti křečím).",
+    "timing": "Závisí na zvolené formě. \nBisglycinát: Ideálně 30-60 minut před spaním, protože má silný zklidňující efekt na nervovou soustavu.\nMalát: Ráno nebo před tréninkem, protože podporuje buněčnou energii.",
+    "howItWorks": "Hořčík se v těle účastní více než 300 různých biochemických reakcí. Působí jako přirozený protipól vápníku. Zatímco vápník způsobuje kontrakci (stáhnutí) svalu, hořčík dává svalovým vláknům pokyn k relaxaci (uvolnění). Pokud máte hořčíku nedostatek, svaly zůstávají v napětí, což vede ke křečím a horší regeneraci. Zároveň blokuje stresové receptory v mozku, čímž tělo připravuje na hluboký spánek.",
+    "benefits": [
+      "Výrazné zlepšení kvality a hloubky spánku (zejména u formy Bisglycinát).",
+      "Spolehlivá prevence svalových křečí, záškubů a syndromu neklidných nohou.",
+      "Snížení míry únavy, vyčerpání a podpora normální psychické činnosti."
+    ],
+    "mythAndFact": "Mýtus: Šumivé tablety hořčíku ze supermarketu vyřeší moje křeče.\nFakt: Tyto tablety obsahují téměř vždy oxid nebo uhličitan hořečnatý s nulovou biologickou využitelností. Jediné, co pravděpodobně způsobí, jsou mírné střevní potíže, protože nestrávený hořčík na sebe ve střevech váže vodu.",
+    "specificWarning": "Trávicí potíže: Některé formy hořčíku (zejména Citrát) mají při vyšších dávkách přirozeně projímavý (laxativní) účinek. Pokud po užití cítíte nevolnost nebo průjem, snižte dávku nebo přejděte na šetrnější chelátovou formu (Bisglycinát).\n\nKombinace s vápníkem: Neužívejte hořčík ve stejnou chvíli společně s vápníkem nebo zinkem, protože tyto minerály navzájem soutěží o vstřebání ve střevech.",
+    "imagePath": "horcik.jpg"
   }
   ]
