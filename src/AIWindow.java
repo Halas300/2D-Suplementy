@@ -34,6 +34,10 @@ public class AIWindow {
         JTextField inputField = new JTextField();
         inputField.setFont(new Font("Arial", Font.PLAIN, 16));
         JButton sendButton = new JButton("Odeslat dotaz");
+        inputField.addActionListener(e -> sendButton.doClick());
+        bottomPanel.add(inputField, BorderLayout.CENTER);
+        bottomPanel.add(sendButton, BorderLayout.EAST);
+        frame.add(bottomPanel, BorderLayout.SOUTH);
 
         bottomPanel.add(inputField, BorderLayout.CENTER);
         bottomPanel.add(sendButton, BorderLayout.EAST);
