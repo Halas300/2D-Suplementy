@@ -3,9 +3,11 @@ import java.awt.*;
 
 public class AIWindow {
     private JFrame frame;
+    private SupplementDatabase db;
 
-    public AIWindow() {
+    public AIWindow(SupplementDatabase db) {
         this.frame = new JFrame("AI Poradce pro Suplementy");
+        this.db = db;
     }
 
     public void showWindow() {
