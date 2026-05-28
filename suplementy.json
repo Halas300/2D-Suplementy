@@ -389,5 +389,158 @@
     "mythAndFact": "Mýtus: Když mě bolí zničené koleno, koupím si kloubovku a do týdne budu zase skákat.\nFakt: Kloubní tkáně nemají vlastní cévní zásobení, takže se k nim živiny dostávají velmi pomalu. Efekt kloubní výživy není okamžitý jako u Ibalginu. Plné účinky (snížení bolesti a obnova pohyblivosti) se dostaví nejdříve po 4 až 8 týdnech každodenního užívání.",
     "specificWarning": "Alergie na korýše: Glukosamin se ve většině doplňků vyrábí z vnějších pevných schránek mořských korýšů (krabů, krevet). Pokud trpíte silnou alergií na mořské plody, musíte hledat specifické veganské verze glukosaminu, které se vyrábějí fermentací z kukuřice.\n\nKrevní ředidla: Chondroitin může ve vysokých dávkách mírně ředit krev. Lidé užívající léky na ředění krve by měli konzultovat suplementaci s lékařem.",
     "imagePath": "kloubnikomplex.jpg"
+  },
+  {
+    "name": "L-Tyrosin",
+    "category": "Mozek",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro výkon pod akutním stresem.",
+    "summary": "L-Tyrosin je aminokyselina, která slouží jako přímý stavební kámen pro tvorbu důležitých mozkových neuropřenašečů – dopaminu, adrenalinu a noradrenalinu. Tyto látky se kriticky rychle vyčerpávají při vysokém stresu, ať už jde o náročné zkoušky, složité programování nebo adrenalinové závodní situace. Doplněním Tyrosinu dáváte mozku materiál k tomu, aby si udržel bleskové reakce a jasnou mysl i pod extrémním tlakem.",
+    "dosage": "Typicky 500–2000 mg na porci.\n\nUžívá se ve formě kapslí nebo prášku. Je důležité ho nebrat společně s jídlem bohatým na bílkoviny, protože by v žaludku musel soutěžit o vstřebání s ostatními aminokyselinami.",
+    "timing": "Zhruba 30–60 minut před stresovou situací (těžký trénink, závod, učení). Na rozdíl od kofeinu ho lze bez problémů užít i v pozdějších odpoledních hodinách.",
+    "howItWorks": "Když se mozek dostane pod velký tlak (fyzický nebo psychický), začne masivně pálit dopamin a adrenalin. Jakmile tyto zásoby dojdou, nastupuje tzv. mozková mlha, zpomalení reakcí a ztráta motivace. L-Tyrosin bleskově prochází do mozku, kde se okamžitě přeměňuje na nový dopamin, čímž tento chemický deficit vyrovnává a udržuje nervovou soustavu v maximální pohotovosti.",
+    "benefits": [
+      "Udržení kognitivního výkonu a rychlého rozhodování při spánkové deprivaci nebo únavě.",
+      "Zvýšení motivace a soustředění bez nervozity a bušení srdce (nestimuluje uměle jako kofein).",
+      "Skvělá synergie s kofeinem – prodlužuje jeho pozitivní účinky a brání následnému energetickému propadu."
+    ],
+    "mythAndFact": "Mýtus: Tyrosin mi zvedne náladu a vyléčí depresi.\nFakt: Tyrosin není antidepresivum. Pomáhá pouze v situacích akutního a krátkodobého stresu, kdy mozek rychle pálí dopamin. V klidovém režimu bez stresu jeho účinek téměř nepoznáte.",
+    "specificWarning": "Štítná žláza: Tyrosin je také prekurzorem pro hormony štítné žlázy (tyroxin). Osoby s hyperfunkcí štítné žlázy by se mu měly zcela vyhnout.\n\nKombinace s léky: Neužívejte s antidepresivy typu IMAO.",
+    "imagePath": "ltyrosin.jpg"
+  },
+  {
+    "name": "Rhodiola Rosea (Rozchodnice růžová)",
+    "category": "Mozek",
+    "scientificScore": "Stupeň 1: Silné a opakované klinické důkazy.",
+    "summary": "Rhodiola je vysokohorská bylina a jeden z nejsilnějších přírodních adaptogenů na světě. Tradičně ji využívali vikingové i olympijští sportovci k překonání brutálních fyzických podmínek. Dnes je to ultimátní biohackerský nástroj proti syndromu vyhoření, chronické psychické únavě a pro zvýšení celkové kapacity mozku zpracovávat obrovské množství informací.",
+    "dosage": "Běžně 200–400 mg standardizovaného extraktu denně.\n\nVždy kontrolujte zadní etiketu – kvalitní produkt musí garantovat obsah účinných látek: obvykle 3 % rosavinů a 1 % salidrosidů.",
+    "timing": "Ideálně ráno nalačno nebo brzy odpoledne před náročným mentálním úkolem. Rhodiola má mírně stimulační účinky, takže se nedoporučuje užívat večer před spaním.",
+    "howItWorks": "Tento adaptogen funguje tak, že optimalizuje hladiny serotoninu a dopaminu v mozku, čímž přímo chrání nervové buňky před poškozením stresem. Zároveň na fyzické úrovni zlepšuje transport kyslíku do krevního oběhu a snižuje hladinu laktátu při zátěži, což z ní dělá fenomenální suplement i pro vytrvalostní a dynamické sporty.",
+    "benefits": [
+      "Výrazné snížení psychické únavy z dlouhého učení nebo soustředění na obrazovku.",
+      "Zvýšení odolnosti nervové soustavy vůči stresovým situacím (tzv. adaptogenní efekt).",
+      "Podpora fyzické vytrvalosti a zkrácení doby regenerace mezi těžkými sériemi nebo sprinty."
+    ],
+    "mythAndFact": "Mýtus: Je to bylinka, takže si z ní můžu vařit čaj a bude to fungovat stejně.\nFakt: Aby Rhodiola měla měřitelný účinek na mozek, potřebujete přesně extrahované aktivní látky (rosaviny). V běžném čaji z drceného kořene je těchto látek stopové a nepředvídatelné množství.",
+    "specificWarning": "Interakce a tlak: Rhodiola může mírně snižovat krevní tlak a ovlivňovat srážlivost krve. Lidé užívající specifické léky na tlak nebo ředění krve by měli být opatrní.",
+    "imagePath": "rhodiola.jpg"
+  },
+  {
+    "name": "Ginkgo Biloba (Jinan dvoulaločný)",
+    "category": "Mozek",
+    "scientificScore": "Stupeň 2: Střední důkazy pro kognitivní funkce a prokrvení.",
+    "summary": "Ginkgo Biloba je extrakt z listů jednoho z nejstarších druhů stromů na planetě. V suplementaci mozku představuje absolutní klasiku. Nezaměřuje se na stimulaci neurotransmiterů, ale řeší čistou mechaniku – funguje jako výkonná pumpa, která rozšiřuje i ty nejjemnější kapiláry a zásobuje mozek (a svaly) masivní dávkou okysličené krve.",
+    "dosage": "Typicky 120–240 mg extraktu denně.\n\nPro dosažení reálných výsledků je nutné pravidelné, každodenní užívání. Jednorázová tabletka před testem příliš nepomůže.",
+    "timing": "Kdykoliv během dne, nejlépe s jídlem, aby se minimalizovalo riziko podráždění žaludku.",
+    "howItWorks": "Obsažené flavonoidy a terpenoidy působí jako silné antioxidanty a vazodilatátory (rozšiřují cévy). Zlepšením mikrocirkulace krve se do mozkové kůry dostane mnohem více kyslíku a glukózy, což jsou dvě základní paliva pro jakoukoliv myšlenkovou činnost. Zlepšené prokrvení okrajových částí těla navíc ocení lidé trpící na studené ruce a nohy.",
+    "benefits": [
+      "Podpora krátkodobé i dlouhodobé paměti a celkové mentální bystrosti.",
+      "Zlepšení periferního prokrvení (studené končetiny).",
+      "Ochrana mozkových buněk před oxidačním stresem a stárnutím."
+    ],
+    "mythAndFact": "Mýtus: Zlepší mi paměť přes noc jako zázrakem.\nFakt: Zlepšení mikrocirkulace v mozku je fyziologický proces, který vyžaduje čas. Znatelné benefity na paměť a soustředění se obvykle projevují až po 4 až 6 týdnech pravidelné suplementace.",
+    "specificWarning": "Srážlivost krve: Ginkgo Biloba velmi efektivně ředí krev. Rozhodně se nesmí kombinovat s léky na ředění krve (Warfarin) a mělo by se vysadit minimálně 2 týdny před jakýmkoliv chirurgickým zákrokem (např. trhání zubů).",
+    "imagePath": "ginkgo.jpg"
+  },
+  {
+    "name": "Kurkumin s Piperinem",
+    "category": "Klouby",
+    "scientificScore": "Stupeň 1: Silné klinické důkazy pro snížení zánětu.",
+    "summary": "Kurkumin je hlavní bioaktivní složkou indického koření kurkumy, které dává typickou žlutou barvu. V moderní sportovní medicíně je považován za jeden z nejsilnějších přírodních bojovníků proti hlubokým zánětům. Je to neocenitelný pomocník pro zklidnění bolavých kloubů po těžkých dopadech, hlubokých dřepech nebo po celodenním ježdění na trailech.",
+    "dosage": "Typicky 500–1000 mg čistého extraktu kurkuminu denně.\n\nNaprosto zásadní: Kurkumin má sám o sobě téměř nulovou vstřebatelnost do krve. Musí být vždy doplněn o Piperin (extrakt z černého pepře), který jeho biologickou využitelnost prokazatelně zvyšuje až o neuvěřitelných 2000 %.",
+    "timing": "Ideálně rozdělit do dvou menších dávek během dne a užívat striktně s tučným jídlem (kurkumin je rozpustný v tucích).",
+    "howItWorks": "Těžký fyzický trénink vyvolává v kloubech a svalech mikro-traumata a zánětlivé reakce. Kurkumin na molekulární úrovni blokuje enzymy (zejména COX-2 a LOX), které tyto záněty v těle spouští. Jeho protizánětlivá síla je v mnoha klinických studiích srovnávána s běžnými volně prodejnými léky proti bolesti (jako je Ibuprofen), ale bez negativního vlivu na žaludeční a střevní sliznici.",
+    "benefits": [
+      "Razantní potlačení kloubních a šlachových zánětů z přetrénování nebo opotřebení.",
+      "Zrychlení regenerace svalů a snížení potréninkové bolestivosti (DOMS).",
+      "Podpora celkového imunitního systému díky extrémně silným antioxidačním vlastnostem."
+    ],
+    "mythAndFact": "Mýtus: Nemusím kupovat kapsle, stačí si do rýže nasypat lžíci kurkumy ze sáčku.\nFakt: Běžné koření obsahuje pouze kolem 2-3 % kurkuminu. Abyste dosáhli terapeutické dávky, museli byste sníst desítky gramů koření denně, a bez přidaného černého pepře by se i tak drtivá většina ihned vyloučila.",
+    "specificWarning": "Žaludek a pepř: Obsažený extrakt z černého pepře (piperin) může u osob s velmi citlivým žaludkem nalačno způsobit mírné pálení. \n\nKontraindikace: Kurkumin stimuluje tvorbu žluči, osoby se žlučníkovými kameny by jej měly užívat pouze po poradě s lékařem.",
+    "imagePath": "kurkumin.jpg"
+  },
+  {
+    "name": "Boswellia Serrata (Kadidlovník)",
+    "category": "Klouby",
+    "scientificScore": "Stupeň 1-2: Silné důkazy pro ochranu chrupavky.",
+    "summary": "Pryskyřice ze stromu Boswellia Serrata je jedním z největších objevů moderní kloubní výživy. Zatímco glukosamin kloub vyživuje a kolagen ho drží pohromadě, Boswellia funguje jako vysoce efektivní hasicí přístroj pro již existující poškození. Pokud vás trápí chronická bolest kolen, ramen nebo zápěstí ze silových tréninků, tento přírodní extrakt je přesně to, co hledáte.",
+    "dosage": "Obvykle 300–500 mg extraktu 2x denně.\n\nDůležité je hledat extrakty, které jsou standardizované na vysoký obsah takzvané Boswellové kyseliny (ideálně 60 % a více).",
+    "timing": "Rozdělit na ráno a večer, nejlépe s jídlem obsahujícím tuky.",
+    "howItWorks": "Boswellové kyseliny mají naprosto unikátní mechanismus – cíleně blokují enzym 5-LOX, který je hlavním viníkem produkce takzvaných leukotrienů (látek, které v těle vyvolávají chronický zánět a otok). Tímto mechanismem Boswellia nejenže velmi rychle tlumí bolest, ale co je hlavní – prokazatelně brání enzymům v tom, aby rozkládaly a ničily vaši stávající kloubní chrupavku.",
+    "benefits": [
+      "Velmi rychlý nástup účinku proti chronické kloubní bolesti (často již během prvního týdne).",
+      "Ochrana kloubní chrupavky před dalším rozkladem způsobeným opotřebením.",
+      "Snížení otoků v okolí přetížených kloubů a šlach (typicky u tenisových loktů a kolen)."
+    ],
+    "mythAndFact": "Mýtus: Kloubní přípravky jsou jen pro seniory s artrózou.\nFakt: Pokud zvedáte těžké váhy nebo dopadáte po skocích, vyvíjíte na klouby mnohonásobně větší mechanický stres než běžný nesportující senior. Prevence a tlumení zánětu je v mladém věku kritické pro dlouhou sportovní kariéru.",
+    "specificWarning": "Trávení: Výjimečně může způsobit lehký reflux (pálení žáhy) nebo mírné trávicí potíže, pokud je užívána nalačno. Není vhodná pro těhotné ženy.",
+    "imagePath": "boswellia.jpg"
+  },
+  {
+    "name": "Kyselina hyaluronová",
+    "category": "Klouby",
+    "scientificScore": "Stupeň 2: Střední důkazy (velmi populární v klinické praxi).",
+    "summary": "Kyselina hyaluronová (HA) je gelovitá molekula, kterou si naše tělo přirozeně vytváří. Její primární super-schopností je vázat na sebe neuvěřitelné množství vody (udrží až 1000x více vody, než sama váží). V těle sportovce funguje jako ultimátní tlumič nárazů. Pokud máte pocit, že vám v kloubech „vrže“ nebo „křupe“, je to právě nedostatek této přírodní lubrikace.",
+    "dosage": "Typicky 100–200 mg denně v doplňcích stravy.\n\nPři užívání ve formě kapslí je klíčové dostatečně pít! Protože molekuly natahují vodu, bez dostatku tekutin v těle nemůže kyselina hyaluronová fungovat.",
+    "timing": "Kdykoliv během dne, nezávisle na jídle.",
+    "howItWorks": "Nachází se ve vysokých koncentracích v synoviální tekutině (tekutině uvnitř kloubních pouzder). Když užijete HA ve formě doplňku, putuje krevním řečištěm do kloubů, kde zvyšuje viskozitu a hustotu kloubního mazu. Kosti o sebe díky tomu při dřepech, skocích a tvrdých otřesech nedřou nasucho, ale hladce kloužou. Zároveň masivně hydratuje pokožku zevnitř, což z ní dělá i populární anti-aging suplement.",
+    "benefits": [
+      "Hloubkové promazání kloubů a obnova přirozených vlastností kloubního mazu.",
+      "Zásadní zmírnění tření, vrzání a lupání v kloubech při pohybu.",
+      "Extrémní hydratace chrupavek, které jsou díky vodě mnohem pružnější a odolnější proti stlačení."
+    ],
+    "mythAndFact": "Mýtus: Kyselina hyaluronová se musí píchat injekcí rovnou do kolene, v tabletách ji žaludek zničí.\nFakt: Dříve to platilo. Moderní technologie ale molekuly kyseliny hyaluronové upravují na tzv. nízkomolekulární formu, která bezpečně projde stěnou tenkého střeva do krevního oběhu a prokazatelně docestuje až do kloubů.",
+    "specificWarning": "Opožděný efekt: V perorální formě (kapsle) trvá nasycení kloubů několik týdnů. Nečekejte, že přestanete vrzat hned druhý den po první tabletce. Přípravek je velmi bezpečný a nemá žádné známé závažné kontraindikace.",
+    "imagePath": "hyaluronova.jpg"
+  },
+  {
+    "name": "GABA (Kyselina gama-aminomáselná)",
+    "category": "Spánek a Zklidnění",
+    "scientificScore": "Stupeň 2-3: Střední důkazy.",
+    "summary": "GABA je hlavní inhibiční (tlumící) neurotransmiter v lidském mozku. Dělá přesný opak toho, co kofein a adrenalin – brzdí nervové vzruchy, snižuje elektrickou aktivitu v mozku a doslova nutí nervovou soustavu, aby „vypla“ a odpočívala. Po večerním těžkém silovém tréninku (kdy je tělo plné adrenalinu a nedokáže usnout) je suplementace GABA způsob, jak mozek rychle přehodit z módu přežití do módu hluboké relaxace.",
+    "dosage": "Typicky 500–750 mg na jednu porci.\n\nKapsle se zapíjí vodou. Větší dávky (nad 1000 mg) naráz se nedoporučují, protože mohou vyvolat nekomfortní pocity v končetinách.",
+    "timing": "Užívejte výhradně večer, zhruba 30–60 minut před spaním. Lze ji velmi úspěšně kombinovat s hořčíkem (Bisglycinátem) pro maximální synergický útlum.",
+    "howItWorks": "Zatímco mozek si GABA běžně tvoří sám, při velkém fyzickém stresu nebo úzkosti se její hladina prudce snižuje. Po požití se GABA sice obtížně dostává přes hematoencefalickou bariéru přímo do mozku, ale prokazatelně se váže na receptory v periferní nervové soustavě a v oblasti střevního mikrobiomu. Tento signál z periférie vyšle do mozku okamžitou zprávu, která způsobí svalové uvolnění a zpomalení tepové frekvence.",
+    "benefits": [
+      "Okamžitý pocit fyzického i psychického uvolnění a úlevy od napětí a úzkosti.",
+      "Zastavení „běžících myšlenek“ v posteli a usnadnění rychlého přechodu do spánku.",
+      "Stimulace přirozeného vyplavování růstového hormonu během hlubokých fází spánku (dle některých studií)."
+    ],
+    "mythAndFact": "Mýtus: GABA v tabletách je k ničemu, protože molekula je příliš velká a neprojde do mozku.\nFakt: Je pravda, že do mozku prochází špatně, ale věda už zjistila, že to není potřeba. Obrovské množství receptorů pro GABA máme ve střevech (osu střevo-mozek). Právě přes ně dokáže doplněk spolehlivě zklidnit celou nervovou soustavu.",
+    "specificWarning": "Zrychlený dech a mravenčení: U některých jedinců může rychlé vstřebání GABA (zejména větších dávek) způsobit dočasný pocit ztíženého dechu, mírné zčervenání a mravenčení kolem rtů. Je to zcela neškodná reakce, která do 10 minut odezní.",
+    "imagePath": "gaba.jpg"
+  },
+  {
+    "name": "Kozlík lékařský (Valerian root)",
+    "category": "Spánek a Zklidnění",
+    "scientificScore": "Stupeň 1-2: Silné důkazy z tradičního i klinického použití.",
+    "summary": "Kořen Kozlíku lékařského je jedna z nejvíce prozkoumaných bylin na podporu spánku. V Evropě je pro své silné tlumící a sedativní účinky schválen a používán už po staletí k léčbě nespavosti a neklidu. Je to vynikající přírodní alternativa pro dny, kdy máte narušený biorytmus z těžkého víkendového závodu, cestování, nebo nemůžete vypnout hlavu po stresujícím dni.",
+    "dosage": "Typicky 300–600 mg extraktu z kořene.\n\nStejně jako u ostatních bylin, vždy kupujte produkty označené jako „Extrakt“, nikoliv jen namletý prášek z kořene.",
+    "timing": "Užívejte 1 až 2 hodiny před plánovaným spánkem. Nástup účinku je pozvolný a potřebuje trochu času, než se projeví.",
+    "howItWorks": "Zajímavé je, že Kozlík lékařský úzce spolupracuje s předchozím suplementem (GABA). Aktivní kyselina valerenová z kořene této byliny totiž v mozku brání enzymům v tom, aby přirozenou GABA rozkládaly. Kozlík tak v mozku udržuje vysokou koncentraci uklidňujících signálů po delší dobu. Výsledkem je snížení nervové excitability, útlum svalového napětí a hladké navození spánku bez narušení jeho architektury.",
+    "benefits": [
+      "Výrazné snížení latence spánku (doby, kterou strávíte převalováním v posteli).",
+      "Prodloužení délky hluboké (Slow-Wave) fáze spánku, která je klíčová pro regeneraci zničených svalů.",
+      "Zcela přírodní a nenávykový způsob řešení občasné nespavosti bez ranní kocoviny."
+    ],
+    "mythAndFact": "Mýtus: Kozlík funguje hned první noc jako silné prášky na spaní na předpis.\nFakt: U některých lidí sice zafunguje okamžitě, ale klinické studie ukazují, že maximální spánkové benefity Kozlíku se objevují až po 2 až 4 týdnech pravidelného večerního užívání.",
+    "specificWarning": "Intenzivní zápach: Extrakt z pravého kořene Kozlíku lékařského má velmi výrazný a nevábný zápach (někomu připomíná staré ponožky). Je to zcela v pořádku a ukazuje to na přítomnost aktivních látek. Po zapití kapsle zápach okamžitě mizí.\n\nKombinace: Nikdy nekombinujte Kozlík se silným alkoholem nebo léky na spaní, protože to může vést k extrémnímu a nebezpečnému útlumu.",
+    "imagePath": "kozlik.jpg"
+  },
+  {
+    "name": "L-Tryptofan",
+    "category": "Spánek a Zklidnění",
+    "scientificScore": "Stupeň 1-2: Silné důkazy jako prekurzor hormonů.",
+    "summary": "L-Tryptofan je esenciální aminokyselina, kterou si tělo neumí vyrobit a musí ji přijímat ze stravy (nachází se například v krůtím mase, vejcích nebo sýrech). Je to absolutní fyziologický základ pro dobrou náladu i tvrdý spánek. Proč? Protože přesně z této aminokyseliny si náš mozek v noci vyrábí serotonin (hormon štěstí) a ten se posléze přeměňuje na melatonin (hormon spánku).",
+    "dosage": "Typicky 500–1000 mg denně před spaním.\n\nAby Tryptofan prošel do mozku (a nepřeválcovaly ho v krevním řečišti jiné aminokyseliny), doporučuje se jeho zapití s malým množstvím sacharidů (např. kousek banánu nebo rýžový chlebíček).",
+    "timing": "Pro optimalizaci spánku užívejte přibližně 45–60 minut před ulehnutím.",
+    "howItWorks": "Mechanismus je čistá biochemie: Jakmile se Tryptofan dostane do mozku, za pomoci vitamínu B6 se přemění na látku zvanou 5-HTP. Z 5-HTP se obratem vytvoří Serotonin (který vás přes den zklidní a zlepší náladu). Jakmile padne tma a zhasnete světla, mozek vezme tento nově vytvořený Serotonin a finálně ho přetransformuje na Melatonin, který vás pošle do hlubokého spánku.",
+    "benefits": [
+      "Udržuje stálou a zdravou tvorbu vlastního, přirozeného melatoninu (není třeba dodávat syntetický).",
+      "Skvěle stabilizuje náladu přes den, snižuje agresivitu a napětí způsobené nedostatkem kalorií v dietě.",
+      "Může tlumit večerní záchvaty vlčího hladu a chutě na sladké (díky optimalizaci serotoninu)."
+    ],
+    "mythAndFact": "Mýtus: Tryptofan je to samé jako čistý Melatonin, akorát to má jiný název.\nFakt: Není. Melatonin je již hotový hormon spánku. Tryptofan je jen stavební cihla, kterou tělu dáte. Tělo si samo moudře určí, kolik z této cihly vyrobí přes den serotoninu na dobrou náladu a kolik v noci melatoninu na spánek. Nehrozí u něj tedy předávkování hormonem.",
+    "specificWarning": "Interakce s antidepresivy: Tryptofan zvyšuje hladinu serotoninu v mozku. Lidé užívající antidepresiva (zejména třídy SSRI) by ho v žádném případě neměli užívat bez svolení lékaře, hrozí riziko takzvaného serotoninového syndromu.\n\nVitamín B6: Pro úspěšnou přeměnu tryptofanu na serotonin tělo nezbytně potřebuje vitamín B6, kvalitní produkty ho již mají v kapsli přimíchaný.",
+    "imagePath": "tryptofan.jpg"
   }
   ]
