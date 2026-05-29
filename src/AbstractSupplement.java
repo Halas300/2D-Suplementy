@@ -1,9 +1,14 @@
 import java.util.List;
-
+/**
+ * Abstraktní třída, která funguje jako hlavní šablona pro každý produkt v aplikaci.
+ */
 public abstract class AbstractSupplement implements CatalogItem {
+    /**
+     * Tady jsou všechny kategorie z jsonu
+     */
     protected String name;
     protected String category;
-    protected String scientificScore;
+    protected String scientificScore;;;
     protected String summary;
     protected String dosage;
     protected String timing;
@@ -29,7 +34,9 @@ public abstract class AbstractSupplement implements CatalogItem {
         this.imagePath = imagePath;
     }
 
-
+    /**
+     * Gettery
+     */
     @Override public String getName() {
         return name;
     }
@@ -57,7 +64,9 @@ public abstract class AbstractSupplement implements CatalogItem {
     public String getMythAndFact() {
         return mythAndFact;
     }
-    public abstract String getSpecificWarning();
+    public String getSpecificWarning() {
+        return specificWarning;
+    }
     public String getImagePath() {
         return imagePath;
     }
