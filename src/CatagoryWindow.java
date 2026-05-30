@@ -1,7 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
-
+/**
+ * Třída CatagoryWindow otevýrá seznam produktů po kliknutí na nějakou kategorii.
+ * program projde seznam produktů a přidá je  do listModelu, aby se to ukázaly na obrazovce
+ */
 public class CatagoryWindow {
     private JFrame frame;
     private DefaultListModel<String> listModel;
@@ -16,7 +19,10 @@ public class CatagoryWindow {
         }
 
         this.productList = new JList<>(listModel);
-
+        /**
+         * Listener kontroluje co uživatel dělá s myší - reaguje na dvojklik a zjistí se na jaký řádek uživatel klikl.
+         * Poté si vytáhne produkt a otevře okno s produktem.
+         */
         productList.addMouseListener(new java.awt.event.MouseAdapter() {
             @Override
             public void mouseClicked(java.awt.event.MouseEvent e) {
@@ -31,7 +37,10 @@ public class CatagoryWindow {
             }
         });
     }
-
+    /**
+     * Metoda, která poskládá okno - zobrazení uprostřed obrazovky a vypsání textu Vyberte suplement, dole je tlačítko zpět pro návrat ke kategoriim.
+     * Seznam je zabalen do Jscrollpane, aby ta mohlo případně být víc suplementu a doplnku stravy - objeví se tam posuvník
+     */
     public void showWindow() {
         frame.setSize(400, 500);
         frame.setLayout(new BorderLayout());
