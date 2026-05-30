@@ -6,7 +6,9 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
-
+/**
+ * Načtení API klíče ze souboru, abych ho neměl napsaný v kódu (kvůli git hubu).
+ */
 public class AIAssistantAPI {
     private static String getApiKey() {
         Properties props = new Properties();
@@ -18,31 +20,39 @@ public class AIAssistantAPI {
             return null;
         }
     }
-
+    /**
+     * Metoda pro komunikaci s AI.
+     */
     public static String askAI(String userGoal) throws Exception {
         String apiKey = getApiKey();
         if (apiKey == null || apiKey.isEmpty()) {
             return "Chyba: API klíč nebyl nalezen v config.properties.";
         }
-
+/**
+ * Nastavuju spojení se servery Googlu, java se na ní připojí a přidá klíč.
+ */
         String apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + apiKey;
-
         URL url = new URL(apiUrl);
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-
         conn.setRequestMethod("POST");
         conn.setRequestProperty("Content-Type", "application/json");
         conn.setDoOutput(true);
-
+/**
+ * Příkaz pro AI, aby věděla co má dělat a jaké produkty doporučovat.
+ */
         String systemPrompt = "Jsi expert na fitness a doplňky stravy. Uživatel píše: '" + userGoal + "'. " +
                 "Stručně a česky mu doporuč suplementy z tohoto seznamu: Kreatin Monohydrát, Kre-Alkalyn, Kreatin Malát, Syrovátkový (Whey) Protein, Rostlinný protein (Vegan), Hovězí hydrolyzovaný protein, EAA (Esenciální aminokyseliny), BCAA (Větvené aminokyseliny), L-Glutamin, Stimulační předtréninková směs (Nakopávač), Bezkofeinová předtréninkovka (Pumpa), Rychlé sacharidy (Maltodextrin / Cyklický dextrin), Iontový nápoj, Elektrolyty (Minerální komplex), Melatonin, Ashwagandha (Indický ženšen), Multivitamin, Hořčík (Magnesium), Zinek, Omega-3 (Mastné kyseliny), Lví hříva (Lion's Mane), Kolagen (Kolagenní peptidy), Kloubní komplex (Glukosamin, Chondroitin, MSM).";
-
+/**
+ * Zabalení do JSON formátu, jaký Google vyžaduje.
+ */
         String jsonInputString = "{\"contents\": [{\"parts\":[{\"text\": \"" + systemPrompt + "\"}]}]}";
         try (OutputStream os = conn.getOutputStream()) {
             byte[] input = jsonInputString.getBytes("utf-8");
             os.write(input, 0, input.length);
         }
-
+/**
+ * Kontrola, jestli se spojení povedlo.
+ */
         int responseCode = conn.getResponseCode();
         if (responseCode != 200) {
             Scanner errorScanner = new Scanner(conn.getErrorStream(), "utf-8");
@@ -55,16 +65,19 @@ public class AIAssistantAPI {
 
             return "Chyba API. Kód: " + responseCode;
         }
-
+/**
+ * Přečtení AI odpovědi.
+ */
         String inline = "";
         Scanner scanner = new Scanner(conn.getInputStream(), "utf-8");
         while (scanner.hasNext()) {
             inline += scanner.nextLine();
         }
         scanner.close();
-
+/**
+ * Vyndání textu z JSON odpovědi, kterou Google pošle zpět.
+ */
         JsonObject dataObj = JsonParser.parseString(inline).getAsJsonObject();
-
         return dataObj.getAsJsonArray("candidates")
                 .get(0).getAsJsonObject()
                 .getAsJsonObject("content")
